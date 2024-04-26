@@ -13,3 +13,7 @@ python-dotenv
 lark
 pandas
 beautifulsoup4
+faiss-cpu
+langchain-core 
+langchain-community 
+langchain-experimental
