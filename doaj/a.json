@@ -1,0 +1,3070 @@
+[
+  {
+    "last_updated": "2023-11-19T02:56:48Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/s23167100",
+          "type": "doi"
+        },
+        {
+          "id": "1424-8220",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "23",
+        "number": "16",
+        "country": "CH",
+        "issns": [
+          "1424-8220"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Sensors"
+      },
+      "month": "08",
+      "keywords": [
+        "home-based rehabilitation",
+        "wearables",
+        "robots",
+        "exoskeletons",
+        "machine learning",
+        "virtual reality"
+      ],
+      "year": "2023",
+      "start_page": "7100",
+      "subject": [
+        {
+          "code": "TP1-1185",
+          "scheme": "LCC",
+          "term": "Chemical technology"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Center for Rehabilitation Research\u2014Human Movement System (Re)habilitation Area, Department of Physiotherapy, School of Health-Polytechnic of Porto, Rua Dr. Ant\u00f3nio Bernardino de Almeida, 400, 4200-072 Porto, Portugal",
+          "name": "Bruno Cunha"
+        },
+        {
+          "affiliation": "Institute for Systems and Computer Engineering, Technology and Science\u2014Telecommunications and Multimedia Centre, FEUP, University of Porto, Rua Dr. Roberto Frias, 4200-465 Porto, Portugal",
+          "name": "Ricardo Ferreira"
+        },
+        {
+          "affiliation": "Center for Rehabilitation Research\u2014Human Movement System (Re)habilitation Area, Department of Physiotherapy, School of Health-Polytechnic of Porto, Rua Dr. Ant\u00f3nio Bernardino de Almeida, 400, 4200-072 Porto, Portugal",
+          "name": "Andreia S. P. Sousa"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/1424-8220/23/16/7100"
+        }
+      ],
+      "abstract": "Advancements in modern medicine have bolstered the usage of home-based rehabilitation services for patients, particularly those recovering from diseases or conditions that necessitate a structured rehabilitation process. Understanding the technological factors that can influence the efficacy of home-based rehabilitation is crucial for optimizing patient outcomes. As technologies continue to evolve rapidly, it is imperative to document the current state of the art and elucidate the key features of the hardware and software employed in these rehabilitation systems. This narrative review aims to provide a summary of the modern technological trends and advancements in home-based shoulder rehabilitation scenarios. It specifically focuses on wearable devices, robots, exoskeletons, machine learning, virtual and augmented reality, and serious games. Through an in-depth analysis of existing literature and research, this review presents the state of the art in home-based rehabilitation systems, highlighting their strengths and limitations. Furthermore, this review proposes hypotheses and potential directions for future upgrades and enhancements in these technologies. By exploring the integration of these technologies into home-based rehabilitation, this review aims to shed light on the current landscape and offer insights into the future possibilities for improving patient outcomes and optimizing the effectiveness of home-based rehabilitation programs.",
+      "title": "Home-Based Rehabilitation of the Shoulder Using Auxiliary Systems and Artificial Intelligence: An Overview"
+    },
+    "id": "04f6d2c3647d495f993b65bb8c2d9aa1",
+    "created_date": "2023-08-25T13:21:20Z"
+  },
+  {
+    "last_updated": "2023-02-28T05:23:06Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.7860/JCDR/2022/56148.17020",
+          "type": "doi"
+        },
+        {
+          "id": "2249-782X",
+          "type": "pissn"
+        },
+        {
+          "id": "0973-709X",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "16",
+        "number": "11",
+        "country": "IN",
+        "issns": [
+          "0973-709X",
+          "2249-782X"
+        ],
+        "publisher": "JCDR Research and Publications Private Limited",
+        "language": [
+          "EN"
+        ],
+        "title": "Journal of Clinical and Diagnostic Research"
+      },
+      "month": "11",
+      "end_page": "YI03",
+      "keywords": [
+        "computer reasoning",
+        "knowledge acquisition",
+        "knowledge representation"
+      ],
+      "year": "2022",
+      "start_page": "YI01",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        }
+      ],
+      "author": [
+        {
+          "orcid_id": "",
+          "affiliation": "Associate Professor, Department of Biochemistry, Sri Devaraj Urs Academy of Higher Education and Research, Kolar, Karnataka, India.",
+          "name": "Harish Rangareddy"
+        },
+        {
+          "orcid_id": "",
+          "affiliation": "Professor and Head, Department of Biochemistry, Sri Devaraj Urs Academy of Higher Education and Research, Kolar, Karnataka, India.",
+          "name": "Shashidhar Kurpad Nagaraj"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "https://jcdr.net/articles/PDF/17020/56148_CE(AD)_F[SK]_PF1(AG_KM)_PFA(AG_KM)_PN(KM)_PFA2(KM).pdf"
+        }
+      ],
+      "abstract": "Indian economy is rapidly growing with the world\u2019s second largest population where the young people are eager to adopt Artificial Intelligence (AI) to resolve complex problems. \u201cAI is a branch of computer science capable of analysing complex medical data\u201d. The ability of AI to establish significant relationships within a data set can be employed in various clinical situations for diagnosis, therapy and prognosis [1]. The AI has brought a paradigm in the advent of technology in the areas of education, healthcare, financial services and others. AI has been applied to increase productivity and simplify the processes of various areas. The spectrum of usage spans from the smartphones to the diagnosis of diseases [2]. With the increasing societal burden of both communicable and non communicable diseases in the healthcare sector AI is set to change the outlook of healthcare delivery. AI is utilised in multifarious settings of hospitals, diagnostic laboratories and research facilities. The technology is used to understand and construct data from various medical data sets and analyse like humans. This created an opportunity which is still not completely explored to enhance patient care by engaging patients and improving patient compliance [3]. However, a lacuna of knowledge exists about the concepts of AI and its potential in healthcare delivery system among healthcare professionals. This article attempts to introduce the reader to the myriad of uses of AI in the medical realm.\r\nWhat is AI?: A computer simulating the characteristics of human intellectual processes including capacity and potential to rationalise, apprehend, simplify, or analyse from prior experience to obtain outcomes without being specifically programmed for distinctive action represents AI [4]. The general consensus is any machine which reasons, develops strategy, solves problems, and makes \u201cjudgements under uncertainty representing knowledge, including common sense knowledge, plans, learns, communicates in natural language and integrates all these skills towards common goals\u201d conforms intelligence [5]. Machine Learning and Natural Language Processing (NLP) are subfields of AI and it is worth noting nuances between the two. In machine learning, the device analyses structured data such as raw data of cardiac electrophysiology, diagnostic imaging and genetics. For healthcare applications, the machine learning allows phenotyping of individuals\u2019 health facilitating targeted diagnostic or therapeutic approaches to diseases. AI with natural language processing can be applied for clinical data to extract information from free text such as clinical observations or health journals and converting into standard clinical terminologies. This can be used to fill specified templates enhancing structured health check data, a process called as \u201cStructured Data Capture (SDC)\u201d. NLP technique helps in data improvement of data generated from clinical work and clinical notes in human language and once processed the data is investigated by machine learning leading to clinical decision-making [6,7]. The process how the NLP facilitates to arrive at a diagnosis is shown in [Table/Fig-1]. Why AI is needed?: Clinical case management involves decision-making in its integrated phases of diagnosis, therapy and prognosis. Clinical decision-making is a crucial event in the medical field which is multifarious and many a times compounded by co-morbidities of the patient. This can lead to a delay in diagnosis or there may be a remote chance of improper medication. This occurs due to the confounding variables which ought to be taken into consideration as a potential source of difference of opinions amongst practitioners. The need for an effective tool that can contemplate all of the variables and suggest the outcomes in different situations in a patient led to the application of AI in the medical field [8].\r\nWhat are the applications of AI in medicine?: The evolution of AI in biomedicine has been remarkable. The AI systems already in use for patient care are IBM Watson and Babylon\u2019s AI Chatbot. IBM Watson has transformed the field of Oncology care as an advisory device using NLP to abridge patients\u2019 electronic medical records and search databases. This can be made use to advise the best feasible treatment options in cancer chemotherapy. It has facilitated customised drug selection for treatment of cancer patients and revealed to be equal or better in efficiency than human experts. Apart from this, IBM Watson AI has been implemented as genomic analysis tool for cancer, training tool for medical students, diagnostic tool and clinical decision support tool [9].\r\nIn Oregon, USA at the Oregon Health and Science University (OHSU) Knight Cancer Institute, the AI based Project Hanover of Microsoft has predicted the most effective chemotherapeutic drugs customised for individual patients with efficiency similar to that of human subject experts leading to precision cancer therapy. United Kingdom\u2019s Royal Free London NHS Foundation Trust, used an AI-based phone application called Streams working on Google\u2019s DeepMind platform for detecting health risks by analysing medical data collected from NHS patients [10].\r\nAn algorithm developed by Stanford\u2019s researchers was able to diagnose pneumonia better than human radiologists and in ophthalmology, the computer was as efficient as an expert Ophthalmologist in making a referral decision for diabetic retinopathy [11]. AI-assisted screening and diagnosis of diseases based on images is presently evolving; especially in the field of Ophthalmology with a focus on diseases of high incidence like diabetic retinopathy, cataract, glaucoma and retinal vein occlusion. There is software available that integrate AI and machine learning for processing the fundal images and assessment [12].\r\nAt Alexandru Ioan Cuza University in Lasi, Romania the Computer Science faculty has collaborated with the University of Medicine, Lasi on the REVERT (taRgeted thErapy for adVanced colorectal canceR paTients) project with the main goal of improving personalised approach to drugs using AI which identifies the best possible therapeutic intervention for patients with metastatic colorectal cancer [13].\r\nThurzo A et al., (2021) explored the application of 3 Dimensional (3D) Convolutional Neural Networks (3D CNN) in forensic research from five perspectives for application: (i) age estimation (ii) gender determination (iii) facial growth vectors prediction (iv) 3D cephalometric landmark detection for craniofacial morphometry (v) facial probabilistic estimation from the skull and vice versa [14].\r\nDuring the pandemic, AI involving both machine learning based diagnostic applications and deep learning based diagnostic applications have been deployed to aid in the diagnosis of Coronavirus Disease-2019 (COVID-19). AI facilitated the rapid review of electronic medical records and medical images (Chest Computed Tomography, X-ray) and differentiating COVID-19 from other pneumonia. Another feature of AI, the percentage involvement of lobes of the lung can be quantified and the changes in the follow-up scans evaluated the infection progression under various treatment modalities of COVID-19 [15].\r\nWith the advent of healthcare delivery systems the result is a change in demographics with increased life expectancy. The elderly individuals require living assistance characteristic to the spatial, temporal and activity variance. AI based physical assistance systems process information acquired from the physical environment using cyber resources and deliver living assistance as well as interfaces to further medical services. Critical analysis of AI revolution leading to high value care: For AI to be utilised successfully in healthcare delivery systems, sustained access to appropriate data is quintessential. The complex data sets may be analysed rapidly and with greater precision by AI to identify patterns. The scientific literature can be searched for pertinent studies and systematic reviews for information retrieval and combining the diverse data using AI, for facilitating in drug discovery. AI based mobile applications related to the medical field have the ability to allow people to assess their own symptoms and seek appropriate medical attention aiding in secondary prevention.\r\nThe potential applications of AI are limited by the discrepancies in the accessibility and quality of data as AI depends on digital data. Other problems of implementing AI in healthcare delivery system are regulatory compliance requirements, adoption of the AI by patient and healthcare provider, and also dearth of data exchange.",
+      "title": "Artificial Intelligence and Healthcare"
+    },
+    "created_date": "2023-01-10T09:40:33Z",
+    "id": "09350c2b5559413da1337282247699b8"
+  },
+  {
+    "last_updated": "2022-12-21T20:43:37Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1438-8871",
+          "type": "eissn"
+        },
+        {
+          "id": "10.2196/26646",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "23",
+        "number": "3",
+        "country": "CA",
+        "issns": [
+          "1438-8871"
+        ],
+        "publisher": "JMIR Publications",
+        "language": [
+          "EN"
+        ],
+        "title": "Journal of Medical Internet Research"
+      },
+      "month": "3",
+      "year": "2021",
+      "start_page": "e26646",
+      "subject": [
+        {
+          "code": "R858-859.7",
+          "scheme": "LCC",
+          "term": "Computer applications to medicine. Medical informatics"
+        },
+        {
+          "code": "RA1-1270",
+          "scheme": "LCC",
+          "term": "Public aspects of medicine"
+        }
+      ],
+      "author": [
+        {
+          "name": "Maassen, Oliver"
+        },
+        {
+          "name": "Fritsch, Sebastian"
+        },
+        {
+          "name": "Palm, Julia"
+        },
+        {
+          "name": "Deffge, Saskia"
+        },
+        {
+          "name": "Kunze, Julian"
+        },
+        {
+          "name": "Marx, Gernot"
+        },
+        {
+          "name": "Riedel, Morris"
+        },
+        {
+          "name": "Schuppert, Andreas"
+        },
+        {
+          "name": "Bickenbach, Johannes"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "{'x': 'http://www.crossref.org/schema/4.4.2', 'j': 'http://www.ncbi.nlm.nih.gov/JATS1'}",
+          "type": "fulltext",
+          "url": "https://www.jmir.org/2021/3/e26646"
+        }
+      ],
+      "abstract": "BackgroundThe increasing development of artificial intelligence (AI) systems in medicine driven by researchers and entrepreneurs goes along with enormous expectations for medical care advancement. AI might change the clinical practice of physicians from almost all medical disciplines and in most areas of health care. While expectations for AI in medicine are high, practical implementations of AI for clinical practice are still scarce in Germany. Moreover, physicians\u2019 requirements and expectations of AI in medicine and their opinion on the usage of anonymized patient data for clinical and biomedical research have not been investigated widely in German university hospitals.\n            ObjectiveThis study aimed to evaluate physicians\u2019 requirements and expectations of AI in medicine and their opinion on the secondary usage of patient data for (bio)medical research (eg, for the development of machine learning algorithms) in university hospitals in Germany.\n            MethodsA web-based survey was conducted addressing physicians of all medical disciplines in 8 German university hospitals. Answers were given using Likert scales and general demographic responses. Physicians were asked to participate locally via email in the respective hospitals.\n            ResultsThe online survey was completed by 303 physicians (female: 121/303, 39.9%; male: 173/303, 57.1%; no response: 9/303, 3.0%) from a wide range of medical disciplines and work experience levels. Most respondents either had a positive (130/303, 42.9%) or a very positive attitude (82/303, 27.1%) towards AI in medicine. There was a significant association between the personal rating of AI in medicine and the self-reported technical affinity level (H4=48.3, P<.001). A vast majority of physicians expected the future of medicine to be a mix of human and artificial intelligence (273/303, 90.1%) but also requested a scientific evaluation before the routine implementation of AI-based systems (276/303, 91.1%). Physicians were most optimistic that AI applications would identify drug interactions (280/303, 92.4%) to improve patient care substantially but were quite reserved regarding AI-supported diagnosis of psychiatric diseases (62/303, 20.5%). Of the respondents, 82.5% (250/303) agreed that there should be open access to anonymized patient databases for medical and biomedical research.\n            ConclusionsPhysicians in stationary patient care in German university hospitals show a generally positive attitude towards using most AI applications in medicine. Along with this optimism comes several expectations and hopes that AI will assist physicians in clinical decision making. Especially in fields of medicine where huge amounts of data are processed (eg, imaging procedures in radiology and pathology) or data are collected continuously (eg, cardiology and intensive care medicine), physicians\u2019 expectations of AI to substantially improve future patient care are high. In the study, the greatest potential was seen in the application of AI for the identification of drug interactions, assumedly due to the rising complexity of drug administration to polymorbid, polypharmacy patients. However, for the practical usage of AI in health care, regulatory and organizational challenges still have to be mastered.",
+      "title": "Future Medical Artificial Intelligence Application Requirements and Expectations of Physicians in German University Hospitals: Web-Based Survey"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "0f44b2f7709b43d486057ca076312174",
+    "created_date": "2021-03-05T15:48:25Z"
+  },
+  {
+    "last_updated": "2022-12-21T17:46:44Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1186/s42494-020-00014-0",
+          "type": "doi"
+        },
+        {
+          "id": "2524-4434",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "2",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "2524-4434"
+        ],
+        "publisher": "BMC",
+        "language": [
+          "EN"
+        ],
+        "title": "Acta Epileptologica"
+      },
+      "month": "4",
+      "end_page": "7",
+      "keywords": [
+        "Machine learning",
+        "Electroencephalograph",
+        "Epilepsy",
+        "Seizure"
+      ],
+      "year": "2020",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "RC346-429",
+          "scheme": "LCC",
+          "term": "Neurology. Diseases of the nervous system"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of neurology, Sichuan Academy of Medical Science and Sichuan Provincial People\u2019s Hospital, University of Electronic Science and Technology of China",
+          "name": "Yang Si"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "http://link.springer.com/article/10.1186/s42494-020-00014-0"
+        }
+      ],
+      "abstract": "Abstract Machine learning (ML) is a fundamental concept in the field of state-of-the-art artificial intelligence (AI). Over the past two decades, it has evolved rapidly and been employed wildly in many fields. In medicine the widespread usage of ML has been observed in recent years. The present review examines various ML approaches for electroencephalograph (EEG) signal procession in epilepsy research, highlighting applications in the aspect of automated seizure detection, prediction and orientation. The present review also presents advantage, challenge and future direction of ML techniques in the analysis of EEG signals in epilepsy.",
+      "title": "Machine learning applications for electroencephalograph signals in epilepsy: a quick review"
+    },
+    "id": "198f933d21034e09b6afdf7767ff8549",
+    "created_date": "2020-05-03T12:24:45Z"
+  },
+  {
+    "last_updated": "2022-12-21T18:48:04Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1476-5586",
+          "type": "pissn"
+        },
+        {
+          "id": "1522-8002",
+          "type": "eissn"
+        },
+        {
+          "id": "10.1016/j.neo.2017.04.008",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "19",
+        "number": "7",
+        "country": "US",
+        "issns": [
+          "1476-5586",
+          "1522-8002"
+        ],
+        "publisher": "Elsevier",
+        "language": [
+          "EN"
+        ],
+        "title": "Neoplasia: An International Journal for Oncology Research"
+      },
+      "month": "7",
+      "end_page": "582",
+      "year": "2017",
+      "start_page": "574",
+      "subject": [
+        {
+          "code": "RC254-282",
+          "scheme": "LCC",
+          "term": "Neoplasms. Tumors. Oncology. Including cancer and carcinogens"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Biological Sciences, M.E.T.U., Ankara, 06800, Turkey",
+          "name": "Oguzhan Begik"
+        },
+        {
+          "affiliation": "Department of Biological Sciences, M.E.T.U., Ankara, 06800, Turkey",
+          "name": "Merve Oyken"
+        },
+        {
+          "affiliation": "Department of Biological Sciences, M.E.T.U., Ankara, 06800, Turkey",
+          "name": "Tuna Cinkilli Alican"
+        },
+        {
+          "affiliation": "Department of Computer Engineering, M.E.T.U., Ankara, 06800, Turkey",
+          "name": "Tolga Can"
+        },
+        {
+          "affiliation": "Department of Biological Sciences, M.E.T.U., Ankara, 06800, Turkey",
+          "name": "Ayse Elif Erson-Bensan"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "http://www.sciencedirect.com/science/article/pii/S1476558617300477"
+        }
+      ],
+      "abstract": "Certain aspects of diagnosis, prognosis, and treatment of cancer patients are still important challenges to be addressed. Therefore, we propose a pipeline to uncover patterns of alternative polyadenylation (APA), a hidden complexity in cancer transcriptomes, to further accelerate efforts to discover novel cancer genes and pathways. Here, we analyzed expression data for 1045 cancer patients and found a significant shift in usage of poly(A) signals in common tumor types (breast, colon, lung, prostate, gastric, and ovarian) compared to normal tissues. Using machine-learning techniques, we further defined specific subsets of APA events to efficiently classify cancer types. Furthermore, APA patterns were associated with altered protein levels in patients, revealed by antibody-based profiling data, suggesting functional significance. Overall, our study offers a computational approach for use of APA in novel gene discovery and classification in common tumor types, with important implications in basic research, biomarker discovery, and precision medicine approaches.",
+      "title": "Alternative Polyadenylation Patterns for Novel Gene Discovery and Classification in Cancer"
+    },
+    "created_date": "2017-07-10T08:43:53Z",
+    "id": "26f640375975491eaa19162fb7bacf5d"
+  },
+  {
+    "last_updated": "2022-12-21T19:06:28Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "2305-7254",
+          "type": "pissn"
+        },
+        {
+          "id": "2343-0737",
+          "type": "eissn"
+        },
+        {
+          "id": "10.23919/FRUCT52173.2021.9435547",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "29",
+        "number": "1",
+        "country": "FI",
+        "issns": [
+          "2305-7254",
+          "2343-0737"
+        ],
+        "publisher": "FRUCT",
+        "language": [
+          "EN"
+        ],
+        "title": "Proceedings of the XXth Conference of Open Innovations Association FRUCT"
+      },
+      "month": "5",
+      "end_page": "93",
+      "keywords": [
+        "machine learning",
+        "key-value databases",
+        "mongodb",
+        "nosql databases",
+        "redis"
+      ],
+      "year": "2021",
+      "start_page": "87",
+      "subject": [
+        {
+          "code": "TK5101-6720",
+          "scheme": "LCC",
+          "term": "Telecommunication"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "University of Zilina / Faculty of management science and informatics, Slovakia",
+          "name": "Roman Ceresnak"
+        },
+        {
+          "affiliation": "University of Zilina / Faculty of management science and informatics, Slovakia",
+          "name": "Karol Matiasko"
+        },
+        {
+          "affiliation": "Matej Bel University / Department of Computer Science, Slovakia",
+          "name": "Adam Dudas"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "pdf",
+          "type": "fulltext",
+          "url": "https://www.fruct.org/publications/fruct29/files/Cer.pdf"
+        }
+      ],
+      "abstract": "Methods of machine learning are currently very widespread, popular and are used in number of sectors - whether it is medicine, industry or the transportation. In many industries, machine learning is a factor of improvement which streamlines the process of disease diagnosing, speeds up the process of object identification at airports or eliminates number of errors which may occur in the production process based on previous testing. Machine learning applied to data retrieval processes in various types of databases, whether relational or non-relational ones, can bring more benefits than minimization of data retrieval time or reduction of database server usage. Based on the previous research which focused on a comparison of the time required to obtain data in relational and non-relational databases - we concluded that it is more appropriate to implement methods and processes of machine learning to non-relational key-value type databases such as MongoDB or DynamoDB. Our proposed solution works with two principles. The first one is the principle of monitoring unfinished commands (operations) and their subsequent transfer to the buffer memory. The second principle is based on definition of the limit at which can machine learning efficiently provide appropriate transfer of the supposedly requested data to the buffer. This action can not only speed up the time required to obtain data, but also provide proposal of data selection operations based on previous queries of the user.",
+      "title": "Implementing Machine Learning Methods in Searching Processes"
+    },
+    "id": "313b60764a3447eeb07c565d245e094a",
+    "created_date": "2021-05-26T08:06:59Z"
+  },
+  {
+    "last_updated": "2023-11-30T20:59:58Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/app13020682",
+          "type": "doi"
+        },
+        {
+          "id": "2076-3417",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "13",
+        "number": "2",
+        "country": "CH",
+        "issns": [
+          "2076-3417"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Applied Sciences"
+      },
+      "month": "01",
+      "keywords": [
+        "machine learning",
+        "data management",
+        "natural language processing",
+        "healthcare systems"
+      ],
+      "year": "2023",
+      "start_page": "682",
+      "subject": [
+        {
+          "code": "T",
+          "scheme": "LCC",
+          "term": "Technology"
+        },
+        {
+          "code": "TA1-2040",
+          "scheme": "LCC",
+          "term": "Engineering (General). Civil engineering (General)"
+        },
+        {
+          "code": "QH301-705.5",
+          "scheme": "LCC",
+          "term": "Biology (General)"
+        },
+        {
+          "code": "QC1-999",
+          "scheme": "LCC",
+          "term": "Physics"
+        },
+        {
+          "code": "QD1-999",
+          "scheme": "LCC",
+          "term": "Chemistry"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Institute of Information Technology, Lodz University of Technology, 93-590 Lodz, Poland",
+          "name": "Aneta Poniszewska-Mara\u0144da"
+        },
+        {
+          "affiliation": "Institute of Information Technology, Lodz University of Technology, 93-590 Lodz, Poland",
+          "name": "Elina Vynogradnyk"
+        },
+        {
+          "affiliation": "Department of Microelectronics and Computer Science, Lodz University of Technology, 93-005 Lodz, Poland",
+          "name": "Witold Mara\u0144da"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2076-3417/13/2/682"
+        }
+      ],
+      "abstract": "Machine learning has only recently begun to see its application in medicine and is still facing quite a few challenges that prevent it from being more widely used. Problems such as high data dimensionality and the lack of a common data schema still remain relevant. It is worth examining the usage of machine learning in the context of healthcare and deploying selected machine learning algorithms on the problem of cardiovascular disease diagnosis. Cardiovascular diseases are currently the most common cause of death in the world. Many of them develop for a long time in an asymptomatic way, and when the first symptoms become visible, it is often too late to implement effective treatment. For this reason, it is important to carry out regular diagnostic tests that will allow you to detect a given disease at an early stage. It is then possible to implement appropriate treatment that will prevent the occurrence of an advanced form of the disease. While doing so, it attempts to analyse data from different sources and utilizing natural language processing to combat data heterogeneity. The paper assesses the efficiency of various approaches of machine learning (i.e., TR-SVM (Terminated Ramp\u2013Support Vector Machine), TWNFI (Transductive Neuro-Fuzzy Inference), Naive Bayes) when applied in the healthcare field and proposes the solutions to the problem of plain text data transformation and data heterogeneity with the help of natural language processing. The algorithms used for diagnosis were implemented, tested and their performance compared, with their parameters also investigated, making it easier to choose an algorithm better suited for a specific case. Whereas TRSVM is better suited for smaller datasets with a high amount of dimensions, TWNFI performs better on larger ones and does not have the performance problems.",
+      "title": "Medical Data Transformations in Healthcare Systems with the Use of Natural Language Processing Algorithms"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "3f545db449ca4842b37b195bd3e4c32a",
+    "created_date": "2023-01-20T14:28:59Z"
+  },
+  {
+    "last_updated": "2023-07-16T11:18:55Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1186/s12911-023-02230-3",
+          "type": "doi"
+        },
+        {
+          "id": "1472-6947",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "23",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "1472-6947"
+        ],
+        "publisher": "BMC",
+        "language": [
+          "EN"
+        ],
+        "title": "BMC Medical Informatics and Decision Making"
+      },
+      "month": "7",
+      "end_page": "12",
+      "keywords": [
+        "Natural language processing",
+        "Drug information provision system",
+        "Kampo medicine",
+        "Conversational agents",
+        "Chatbots",
+        "Question-answering"
+      ],
+      "year": "2023",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "R858-859.7",
+          "scheme": "LCC",
+          "term": "Computer applications to medicine. Medical informatics"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Faculty of Pharmaceutical Sciences, Tokyo University of Science",
+          "name": "Ayako Maeda-Minami"
+        },
+        {
+          "affiliation": "Center for Kampo Medicine, Keio University School of Medicine",
+          "name": "Tetsuhiro Yoshino"
+        },
+        {
+          "affiliation": "Hoshi University",
+          "name": "Tetsuro Yumoto"
+        },
+        {
+          "affiliation": "Hoshi University",
+          "name": "Kayoko Sato"
+        },
+        {
+          "affiliation": "Hoshi University",
+          "name": "Atsunobu Sagara"
+        },
+        {
+          "affiliation": "Department of Pharmacy, General Sagami Kosei Hospital",
+          "name": "Kenjiro Inaba"
+        },
+        {
+          "affiliation": "I&H Co. Ltd",
+          "name": "Hidenori Kominato"
+        },
+        {
+          "affiliation": "Kimura Information Technology Co. Ltd",
+          "name": "Takao Kimura"
+        },
+        {
+          "affiliation": "Kimura Information Technology Co. Ltd",
+          "name": "Tetsuya Takishita"
+        },
+        {
+          "affiliation": "Kimura Information Technology Co. Ltd",
+          "name": "Gen Watanabe"
+        },
+        {
+          "affiliation": "Division of Pharmaceutical Care Sciences, Center for Social Pharmacy and Pharmaceutical Care Science, Faculty of Pharmacy, Keio University",
+          "name": "Tomonori Nakamura"
+        },
+        {
+          "affiliation": "Faculty of Pharmaceutical Sciences, Tokyo University of Science",
+          "name": "Yasunari Mano"
+        },
+        {
+          "affiliation": "Center for Kampo Medicine, Keio University School of Medicine",
+          "name": "Yuko Horiba"
+        },
+        {
+          "affiliation": "Center for Kampo Medicine, Keio University School of Medicine",
+          "name": "Kenji Watanabe"
+        },
+        {
+          "affiliation": "Juntendo Advanced Research Institute for Health Science, Juntendo University",
+          "name": "Junzo Kamei"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://doi.org/10.1186/s12911-023-02230-3"
+        }
+      ],
+      "abstract": "Abstract Background Kampo medicine is widely used in Japan; however, most physicians and pharmacists have insufficient knowledge and experience in it. Although a chatbot-style system using machine learning and natural language processing has been used in some clinical settings and proven useful, the system developed specifically for the Japanese language using this method has not been validated by research. The purpose of this study is to develop a novel drug information provision system for Kampo medicines using a natural language classifier\u00ae (NLC\u00ae) based on IBM Watson. Methods The target Kampo formulas were 33 formulas listed in the 17th revision of the Japanese Pharmacopoeia. The information included in the system comes from the package inserts of Kampo medicines, Manuals for Management of Individual Serious Adverse Drug Reactions, and data on off-label usage. The system developed in this study classifies questions about the drug information of Kampo formulas input by natural language into preset questions and outputs preset answers for the questions. The system uses morphological analysis, synonym conversion by thesaurus, and NLC\u00ae. We fine-tuned the information registered into NLC\u00ae and increased the thesaurus. To validate the system, 900 validation questions were provided by six pharmacists who were classified into high or low levels of knowledge and experience of Kampo medicines and three pharmacy students. Results The precision, recall, and F-measure of the system performance were 0.986, 0.915, and 0.949, respectively. The results were stable even with differences in the amount of expertise of the question authors. Conclusions We developed a system using natural language classification that can give appropriate answers to most of the validation questions.",
+      "title": "Development of a novel drug information provision system for Kampo medicine using natural language processing technology"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "4c344db80ebf40999feba52893497757",
+    "created_date": "2023-07-16T11:18:55Z"
+  },
+  {
+    "last_updated": "2022-12-21T17:53:07Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.4108/eai.23-3-2018.154774",
+          "type": "doi"
+        },
+        {
+          "id": "2032-927X",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "5",
+        "number": "17",
+        "country": "BE",
+        "issns": [
+          "2032-927X"
+        ],
+        "publisher": "European Alliance for Innovation (EAI)",
+        "language": [
+          "EN"
+        ],
+        "title": "EAI Endorsed Transactions on Ambient Systems"
+      },
+      "month": "3",
+      "end_page": "12",
+      "keywords": [
+        "machine Learning",
+        "Classification",
+        "Unsupervised Regression",
+        "Supervised Regression",
+        "Principal Component Analysis"
+      ],
+      "year": "2018",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "QA75.5-76.95",
+          "scheme": "LCC",
+          "term": "Electronic computers. Computer science"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "wardtew_9@hotmail.com",
+          "name": "Mashail Alsalamah"
+        },
+        {
+          "affiliation": "",
+          "name": "Saad Amin"
+        },
+        {
+          "affiliation": "",
+          "name": "Vasile Palade"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "http://eudl.eu/doi/10.4108/eai.23-3-2018.154774"
+        }
+      ],
+      "abstract": "Over the years Radial Basis Function (RBF) Kernel Machines have been used in Machine Learning tasks, but there are certain flaws that prevent their usage in some up-to-date applications (e.g., some Kernel Machines suffer from fast growth number of learning parameters whilst predicting data with large number of variations). Besides, Kernel Machines with single hidden layer have no mechanisms for features selection in multidimensional data space, and machine-learning task becomes intractable with enlargement of the data available for analysis. To address these issues, this paper investigates the usage of a framework for \u201cdeep learning\u201d architecture composed of multilayered adaptive non-linear components \u2013 Multilayer RBF Kernel Machine. To be precise, three different approaches of features selection and dimensionality reduction to train RBF based on Multilayer Kernel Learning are explored, and comparisons between them in terms of accuracy, performance and computational complexity are made. As opposed to the \u201cshallow learning\u201d algorithm with usually single layer architecture, results show that the multilayered system produces better results with large and highly varied data. In particular, features selection and dimensionality reduction, as a class of the multilayer method, shows results that are more accurate. This paper proposes a novel scheme based on deep Multilayer RBF Kernel Machine learning for sleep apnea detection and quantification using statistical features of ECG signals. The results obtained show that the newly proposed approach provides significant accuracy improvements compared to state-of-the-art methods. Because of its noninvasive and low-cost nature, this algorithm has the potential for numerous applications in sleep medicine.",
+      "title": "Heart Disease Diagnosis Based on Deep Radial Basis Function Kernel Machine"
+    },
+    "created_date": "2018-06-05T15:05:35Z",
+    "id": "4d13eb139b764c4e8e20e5122fd9d47e"
+  },
+  {
+    "last_updated": "2022-12-21T22:33:49Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.22178/pos.37-2",
+          "type": "doi"
+        },
+        {
+          "id": "2413-9009",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "4",
+        "number": "8",
+        "country": "SK",
+        "issns": [
+          "2413-9009"
+        ],
+        "publisher": "Altezoro s.r.o. (Slovak Republic) and Publishing Center \"Dialog\" (Ukraine)",
+        "language": [
+          "EN",
+          "RU",
+          "UK"
+        ],
+        "title": "Traektori\u00e2 Nauki"
+      },
+      "month": "8",
+      "end_page": "2023",
+      "keywords": [
+        "big data",
+        "analyzing",
+        "modelling",
+        "health improving",
+        "regional aspects"
+      ],
+      "year": "2018",
+      "start_page": "2017",
+      "subject": [
+        {
+          "code": "Q",
+          "scheme": "LCC",
+          "term": "Science"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Lviv Branch of Dnipropetrovsk National University of Railway Transport named after Academician V. Lazaryan",
+          "name": "Vasyl Kopytko"
+        },
+        {
+          "affiliation": " Lviv University of Business and Law",
+          "name": "Lyubov Shevchuk"
+        },
+        {
+          "affiliation": " Lviv University of Business and Law",
+          "name": "Larysa Yankovska"
+        },
+        {
+          "affiliation": " Lviv University of Business and Law",
+          "name": "Zhanna Semchuk"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "http://pathofscience.org/index.php/ps/article/view/537/555"
+        }
+      ],
+      "abstract": "The field of health improvement and life prolonging develops poorly, despite all the advances in medicine, chemistry and genetic engineering. Among the main problems is the difficulty of using new scientific achievements in other industries due to the rapid development of specialized knowledge, the problem of returning costs for the creation of really effective and the problem of aging population in developed countries. There are problems with data for this methods usage with privacy and security on different levels with regional peculiarities. Effective timing of work on health at the personal level can result as a result of increased time and productivity. But it's difficult for people to allocate their intellectual resources for that, so you have to connect artificial intelligence and machine learning. Big Data model with methods and analysis techniques on different levels for health improvement was suggested. The importance of the level of social networks and its regional aspects for the analysis of health improvement data was identified. Big data processing results implementation and levels of interaction with human with request for changes model was proposed. It consists from two levels of interaction with humans by level of quick reaction and discussion with smart personal assistance. Regional aspects from possible AI implementation in undeveloped countries were analyzed on example of personal level big data for health usage.",
+      "title": "Big Data, Analyzing and Modelling: New Ways of Health Improvement and Regional Aspects"
+    },
+    "created_date": "2018-09-09T18:46:46Z",
+    "id": "527f1c99d086463b88611abf3a89b951"
+  },
+  {
+    "last_updated": "2023-11-17T16:18:49Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/app13074333",
+          "type": "doi"
+        },
+        {
+          "id": "2076-3417",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "13",
+        "number": "7",
+        "country": "CH",
+        "issns": [
+          "2076-3417"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Applied Sciences"
+      },
+      "month": "03",
+      "keywords": [
+        "machine learning",
+        "automatization",
+        "histopathology",
+        "medical imaging"
+      ],
+      "year": "2023",
+      "start_page": "4333",
+      "subject": [
+        {
+          "code": "T",
+          "scheme": "LCC",
+          "term": "Technology"
+        },
+        {
+          "code": "TA1-2040",
+          "scheme": "LCC",
+          "term": "Engineering (General). Civil engineering (General)"
+        },
+        {
+          "code": "QH301-705.5",
+          "scheme": "LCC",
+          "term": "Biology (General)"
+        },
+        {
+          "code": "QC1-999",
+          "scheme": "LCC",
+          "term": "Physics"
+        },
+        {
+          "code": "QD1-999",
+          "scheme": "LCC",
+          "term": "Chemistry"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Information Technologies, Vilnius Gediminas Technical University, Sauletekio Al. 11, LT-10223 Vilnius, Lithuania",
+          "name": "Mantas Kundrotas"
+        },
+        {
+          "affiliation": "Department of Information Technologies, Vilnius Gediminas Technical University, Sauletekio Al. 11, LT-10223 Vilnius, Lithuania",
+          "name": "Edita Ma\u017eonien\u0117"
+        },
+        {
+          "affiliation": "Department of Information Technologies, Vilnius Gediminas Technical University, Sauletekio Al. 11, LT-10223 Vilnius, Lithuania",
+          "name": "Dmitrij \u0160e\u0161ok"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2076-3417/13/7/4333"
+        }
+      ],
+      "abstract": "Latest progress in development of artificial intelligence (AI), especially machine learning (ML), allows to develop automated technologies that can eliminate or at least reduce human errors in analyzing health data. Due to the ethics of usage of AI in pathology and laboratory medicine, to the present day, pathologists analyze slides of histopathologic tissues that are stained with hematoxylin and eosin under the microscope; by law it cannot be substituted and must go under visual observation, as pathologists are fully accountable for the result. However, a profuse number of automated systems could solve complex problems that require an extremely fast response, accuracy, or take place on tasks that require both a fast and accurate response at the same time. Such systems that are based on ML algorithms can be adapted to work with medical imaging data, for instance whole slide images (WSIs) that allow clinicians to review a much larger number of health cases in a shorter time and give the ability to identify the preliminary stages of cancer or other diseases improving health monitoring strategies. Moreover, the increased opportunity to forecast and take control of the spread of global diseases could help to create a preliminary analysis and viable solutions. Accurate identification of a tumor, especially at an early stage, requires extensive expert knowledge, so often the cancerous tissue is identified only after experiencing its side effects. The main goal of our study was to expand the ability to find more accurate ML methods and techniques that can lead to detecting tumor damaged tissues in histopathological WSIs. According to the experiments that we conducted, there was a 1% AUC difference between the training and test datasets. Over several training iterations, the U-Net model was able to reduce the model size by almost twice while also improving accuracy from 0.95491 to 0.95515 AUC. Convolutional models worked well on groups of different sizes when properly trained. With the TTA (test time augmentation) method the result improved to 0.96870, and with the addition of the multi-model ensemble, it improved to 0.96977. We found out that flaws in the models can be found and fixed by using specialized analysis techniques. A correction of the image processing parameters was sufficient to raise the AUC by almost 0.3%. The result of the individual model increased to 0.96664 AUC (a more than 1% better result than the previous best model) after additional training data preparation. This is an arduous task due to certain factors: using such systems\u2019 applications globally needs to achieve maximum accuracy and improvement in the ethics of Al usage in medicine; furthermore if hospitals could give scientific inquiry validation, while retaining patient data anonymity with clinical information that could be systemically analyzed and improved by scientists, thereby proving Al benefits.",
+      "title": "Automatic Tumor Identification from Scans of Histopathological Tissues"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "58a52f05511146a1a17d176f0da56168",
+    "created_date": "2023-04-12T13:25:29Z"
+  },
+  {
+    "last_updated": "2023-11-19T08:10:57Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/healthcare11172437",
+          "type": "doi"
+        },
+        {
+          "id": "2227-9032",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "11",
+        "number": "17",
+        "country": "CH",
+        "issns": [
+          "2227-9032"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Healthcare"
+      },
+      "month": "08",
+      "keywords": [
+        "burn medicine",
+        "predictive scores",
+        "ABSI",
+        "Baux",
+        "machine learning",
+        "AI"
+      ],
+      "year": "2023",
+      "start_page": "2437",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Sonja Verena Schmidt"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Marius Drysch"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Felix Reinkemeier"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Johannes Maximilian Wagner"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Alexander Sogorski"
+        },
+        {
+          "affiliation": "Department of Anesthesiology, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Elisabete Macedo Santos"
+        },
+        {
+          "affiliation": "Department of Anesthesiology, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Peter Zahn"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Marcus Lehnhardt"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Bj\u00f6rn Behr"
+        },
+        {
+          "affiliation": "German Society for Burn Treatment (DGV), Committee of the German Burn Registry, Luisenstrasse 58-59, 10117 Berlin, Germany",
+          "name": "German Burn Registry"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Flemming Puscz"
+        },
+        {
+          "affiliation": "Department of Plastic Surgery, BG University Hospital Bergmannsheil, Ruhr University Bochum, 44789 Bochum, Germany",
+          "name": "Christoph Wallner"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2227-9032/11/17/2437"
+        }
+      ],
+      "abstract": "The mortality of severely burned patients can be predicted by multiple scores which have been created over the last decades. As the treatment of burn injuries and intensive care management have improved immensely over the last years, former prediction scores seem to be losing accuracy in predicting survival. Therefore, various modifications of existing scores have been established and innovative scores have been introduced. In this study, we used data from the German Burn Registry and analyzed them regarding patient mortality using different methods of machine learning. We used Classification and Regression Trees (CARTs), random forests, XGBoost, and logistic regression regarding predictive features for patient mortality. Analyzing the data of 1401 patients via machine learning, the factors of full-thickness burns, patient\u2019s age, and total burned surface area could be identified as the most important features regarding the prediction of patient mortality following burn trauma. Although the different methods identified similar aspects, application of machine learning shows that more data are necessary for a valid analysis. In the future, the usage of machine learning can contribute to the development of an innovative and precise predictive score in burn medicine and even to further interpretations of relevant data regarding different forms of outcome from the German Burn registry.",
+      "title": "Improvement of Predictive Scores in Burn Medicine through Different Machine Learning Approaches"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "72139903c5a841a381fff2baf3a388b7",
+    "created_date": "2023-09-08T12:49:39Z"
+  },
+  {
+    "last_updated": "2023-11-16T21:41:16Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/life13020439",
+          "type": "doi"
+        },
+        {
+          "id": "2075-1729",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "13",
+        "number": "2",
+        "country": "CH",
+        "issns": [
+          "2075-1729"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Life"
+      },
+      "month": "02",
+      "keywords": [
+        "Unani",
+        "herbal medicine",
+        "metabolomics",
+        "deep learning",
+        "prediction"
+      ],
+      "year": "2023",
+      "start_page": "439",
+      "subject": [
+        {
+          "code": "Q",
+          "scheme": "LCC",
+          "term": "Science"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Computer Science, Faculty of Mathematics and Natural Sciences, IPB University, Bogor 16680, Indonesia",
+          "name": "Sony Hartono Wijaya"
+        },
+        {
+          "affiliation": "Computational Systems Biology Lab, Graduate School of Science and Technology, Nara Institute of Science and Technology, Nara 630-0101, Japan",
+          "name": "Ahmad Kamal Nasution"
+        },
+        {
+          "affiliation": "Department of Chemistry, Faculty of Mathematics and Natural Sciences, IPB University, Bogor 16680, Indonesia",
+          "name": "Irmanida Batubara"
+        },
+        {
+          "affiliation": "Computational Systems Biology Lab, Graduate School of Science and Technology, Nara Institute of Science and Technology, Nara 630-0101, Japan",
+          "name": "Pei Gao"
+        },
+        {
+          "affiliation": "Computational Systems Biology Lab, Graduate School of Science and Technology, Nara Institute of Science and Technology, Nara 630-0101, Japan",
+          "name": "Ming Huang"
+        },
+        {
+          "affiliation": "Computational Systems Biology Lab, Graduate School of Science and Technology, Nara Institute of Science and Technology, Nara 630-0101, Japan",
+          "name": "Naoaki Ono"
+        },
+        {
+          "affiliation": "Computational Systems Biology Lab, Graduate School of Science and Technology, Nara Institute of Science and Technology, Nara 630-0101, Japan",
+          "name": "Shigehiko Kanaya"
+        },
+        {
+          "affiliation": "Computational Systems Biology Lab, Graduate School of Science and Technology, Nara Institute of Science and Technology, Nara 630-0101, Japan",
+          "name": "Md. Altaf-Ul-Amin"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2075-1729/13/2/439"
+        }
+      ],
+      "abstract": "The use of herbal medicines in recent decades has increased because their side effects are considered lower than conventional medicine. Unani herbal medicines are often used in Southern Asia. These herbal medicines are usually composed of several types of medicinal plants to treat various diseases. Research on herbal medicine usually focuses on insight into the composition of plants used as ingredients. However, in the present study, we extended to the level of metabolites that exist in the medicinal plants. This study aimed to develop a predictive model of the Unani therapeutic usage based on its constituent metabolites using deep learning and data-intensive science approaches. Furthermore, the best prediction model was then utilized to extract important metabolites for each therapeutic usage of Unani. In this study, it was observed that the deep neural network approach provided a much better prediction model than other algorithms including random forest and support vector machine. Moreover, according to the best prediction model using the deep neural network, we identified 118 important metabolites for nine therapeutic usages of Unani.",
+      "title": "Deep Learning Approach for Predicting the Therapeutic Usages of Unani Formulas towards Finding Essential Compounds"
+    },
+    "id": "7c49c7b49a104bf1a65912e4b404cbb2",
+    "created_date": "2023-02-24T15:15:29Z"
+  },
+  {
+    "last_updated": "2022-12-22T01:54:36Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1186/s41239-022-00326-w",
+          "type": "doi"
+        },
+        {
+          "id": "2365-9440",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "19",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "2365-9440"
+        ],
+        "publisher": "SpringerOpen",
+        "language": [
+          "EN"
+        ],
+        "title": "International Journal of Educational Technology in Higher Education"
+      },
+      "month": "4",
+      "end_page": "20",
+      "keywords": [
+        "Artificial intelligence (AI)",
+        "Higher education",
+        "Latin America",
+        "Machine learning",
+        "Deep learning",
+        "Natural language processing"
+      ],
+      "year": "2022",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "LC8-6691",
+          "scheme": "LCC",
+          "term": "Special aspects of education"
+        },
+        {
+          "code": "T58.5-58.64",
+          "scheme": "LCC",
+          "term": "Information technology"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Faculty of Artificial Intelligence in Education, Central China Normal University",
+          "name": "Sdenka Zobeida Salas-Pilco"
+        },
+        {
+          "affiliation": "Faculty of Artificial Intelligence in Education, Hubei Research Center for Educational Informationization, Central China Normal University",
+          "name": "Yuqin Yang"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://doi.org/10.1186/s41239-022-00326-w"
+        }
+      ],
+      "abstract": "Abstract Over the last decade, there has been great research interest in the application of artificial intelligence (AI) in various fields, such as medicine, finance, and law. Recently, there has been a research focus on the application of AI in education, where it has great potential. Therefore, a systematic review of the literature on AI in education is therefore necessary. This article considers its usage and applications in Latin American higher education institutions. After identifying the studies dedicated to educational innovations brought about by the application of AI techniques, this review examines AI applications in three educational processes: learning, teaching, and administration. Each study is analyzed for the AI techniques used, such as machine learning, deep learning, and natural language processing, the AI tools and algorithms that are applied, and the main education topic. The results reveal that the main AI applications in education are: predictive modelling, intelligent analytics, assistive technology, automatic content analysis, and image analytics. It is further demonstrated that AI applications help to address important education issues (e.g., detecting students at risk of dropping out) and thereby contribute to ensuring quality education. Finally, the article presents the lessons learned from the review concerning the application of AI technologies in higher education in the Latin American context.",
+      "title": "Artificial intelligence applications in Latin American higher education: a systematic review"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "8027e533408b467ab65b2204fe528318",
+    "created_date": "2022-04-24T11:09:10Z"
+  },
+  {
+    "last_updated": "2023-04-29T07:33:36Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1759-7218",
+          "type": "eissn"
+        },
+        {
+          "id": "10.1177/1759720X231165560",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "15",
+        "country": "GB",
+        "issns": [
+          "1759-720X",
+          "1759-7218"
+        ],
+        "publisher": "SAGE Publishing",
+        "language": [
+          "EN"
+        ],
+        "title": "Therapeutic Advances in Musculoskeletal Disease"
+      },
+      "month": "4",
+      "year": "2023",
+      "subject": [
+        {
+          "code": "RC925-935",
+          "scheme": "LCC",
+          "term": "Diseases of the musculoskeletal system"
+        }
+      ],
+      "author": [
+        {
+          "name": "Johanne Martel-Pelletier"
+        },
+        {
+          "name": "Patrice Paiement"
+        },
+        {
+          "name": "Jean-Pierre Pelletier"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://doi.org/10.1177/1759720X231165560"
+        }
+      ],
+      "abstract": "Knee osteoarthritis (OA) is a prevalent and disabling disease that can develop over decades. This disease is heterogeneous and involves structural changes in the whole joint, encompassing multiple tissue types. Detecting OA before the onset of irreversible changes is crucial for early management, and this could be achieved by allowing knee tissue visualization and quantifying their changes over time. Although some imaging modalities are available for knee structure assessment, magnetic resonance imaging (MRI) is preferred. This narrative review looks at existing literature, first on MRI-developed approaches for evaluating knee articular tissues, and second on prediction using machine/deep-learning-based methodologies and MRI as input or outcome for early OA diagnosis and prognosis. A substantial number of MRI methodologies have been developed to assess several knee tissues in a semi-quantitative and quantitative fashion using manual, semi-automated and fully automated systems. This dynamic field has grown substantially since the advent of machine/deep learning. Another active area is predictive modelling using machine/deep-learning methodologies enabling robust early OA diagnosis/prognosis. Moreover, incorporating MRI markers as input/outcome in such predictive models is important for a more accurate OA structural diagnosis/prognosis. The main limitation of their usage is the ability to move them in rheumatology practice. In conclusion, MRI knee tissue determination and quantification provide early indicators for individuals at high risk of developing this disease or for patient prognosis. Such assessment of knee tissues, combined with the development of models/tools from machine/deep learning using, in addition to other parameters, MRI markers for early diagnosis/prognosis, will maximize opportunities for individualized risk assessment for use in clinical practice permitting precision medicine. Future efforts should be made to integrate such prediction models into open access, allowing early disease management to prevent or delay the OA outcome.",
+      "title": "Magnetic resonance imaging assessments for knee segmentation and their use in combination with machine/deep learning as predictors of early osteoarthritis diagnosis and prognosis"
+    },
+    "id": "89e832c46466485ebad67435d6b52929",
+    "created_date": "2023-04-29T07:33:36Z"
+  },
+  {
+    "last_updated": "2022-12-21T23:12:43Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "2234-943X",
+          "type": "eissn"
+        },
+        {
+          "id": "10.3389/fonc.2020.598721",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "10",
+        "country": "CH",
+        "issns": [
+          "2234-943X"
+        ],
+        "publisher": "Frontiers Media S.A.",
+        "language": [
+          "EN"
+        ],
+        "title": "Frontiers in Oncology"
+      },
+      "month": "2",
+      "keywords": [
+        "lung cancer",
+        "epidermal growth factor receptor mutation",
+        "deep learning",
+        "convolutional neural network",
+        "feature mapping"
+      ],
+      "year": "2021",
+      "subject": [
+        {
+          "code": "RC254-282",
+          "scheme": "LCC",
+          "term": "Neoplasms. Tumors. Oncology. Including cancer and carcinogens"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China",
+          "name": "Baihua Zhang"
+        },
+        {
+          "affiliation": "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China",
+          "name": "Shouliang Qi"
+        },
+        {
+          "affiliation": "Key Laboratory of Intelligent Computing in Medical Image, Ministry of Education, Northeastern University, Shenyang, China",
+          "name": "Shouliang Qi"
+        },
+        {
+          "affiliation": "Department of Radiology, The First Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+          "name": "Xiaohuan Pan"
+        },
+        {
+          "affiliation": "College of Medicine and Biological Information Engineering, Northeastern University, Shenyang, China",
+          "name": "Chen Li"
+        },
+        {
+          "affiliation": "Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, United States",
+          "name": "Yudong Yao"
+        },
+        {
+          "affiliation": "Department of Electrical and Computer Engineering, University of Texas at El Paso, El Paso, TX, United States",
+          "name": "Wei Qian"
+        },
+        {
+          "affiliation": "Department of Radiology, The Fifth Affiliated Hospital of Guangzhou Medical University, Guangzhou, China",
+          "name": "Yubao Guan"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://www.frontiersin.org/articles/10.3389/fonc.2020.598721/full"
+        }
+      ],
+      "abstract": "To recognize the epidermal growth factor receptor (EGFR) gene mutation status in lung adenocarcinoma (LADC) has become a prerequisite of deciding whether EGFR-tyrosine kinase inhibitor (EGFR-TKI) medicine can be used. Polymerase chain reaction assay or gene sequencing is for measuring EGFR status, however, the tissue samples by surgery or biopsy are required. We propose to develop deep learning models to recognize EGFR status by using radiomics features extracted from non-invasive CT images. Preoperative CT images, EGFR mutation status and clinical data have been collected in a cohort of 709 patients (the primary cohort) and an independent cohort of 205 patients. After 1,037 CT-based radiomics features are extracted from each lesion region, 784 discriminative features are selected for analysis and construct a feature mapping. One Squeeze-and-Excitation (SE) Convolutional Neural Network (SE-CNN) has been designed and trained to recognize EGFR status from the radiomics feature mapping. SE-CNN model is trained and validated by using 638 patients from the primary cohort, tested by using the rest 71 patients (the internal test cohort), and further tested by using the independent 205 patients (the external test cohort). Furthermore, SE-CNN model is compared with machine learning (ML) models using radiomics features, clinical features, and both features. EGFR(-) patients show the smaller age, higher odds of female, larger lesion volumes, and lower odds of subtype of acinar predominant adenocarcinoma (APA), compared with EGFR(+). The most discriminative features are for texture (614, 78.3%) and the features of first order of intensity (158, 20.1%) and the shape features (12, 1.5%) follow. SE-CNN model can recognize EGFR mutation status with an AUC of 0.910 and 0.841 for the internal and external test cohorts, respectively. It outperforms the CNN model without SE, the fine-tuned VGG16 and VGG19, three ML models, and the state-of-art models. Utilizing radiomics feature mapping extracted from non-invasive CT images, SE-CNN can precisely recognize EGFR mutation status of LADC patients. The proposed method combining radiomics features and deep leaning is superior to ML methods and can be expanded to other medical applications. The proposed SE-CNN model may help make decision on usage of EGFR-TKI medicine.",
+      "title": "Deep CNN Model Using CT Radiomics Feature Mapping Recognizes EGFR Gene Mutation Status of Lung Adenocarcinoma"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "95c73a5a4ef64de0bfdcf95fc8330dd8",
+    "created_date": "2021-02-12T05:26:45Z"
+  },
+  {
+    "last_updated": "2022-12-22T04:14:24Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1038/s41598-022-23882-7",
+          "type": "doi"
+        },
+        {
+          "id": "2045-2322",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "12",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "2045-2322"
+        ],
+        "publisher": "Nature Portfolio",
+        "language": [
+          "EN"
+        ],
+        "title": "Scientific Reports"
+      },
+      "month": "11",
+      "end_page": "12",
+      "year": "2022",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        },
+        {
+          "code": "Q",
+          "scheme": "LCC",
+          "term": "Science"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Yusuke Ushio"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Hiroshi Kataoka"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Kazuhiro Iwadoh"
+        },
+        {
+          "affiliation": "Department of Nephrology, Kameda Medical Center",
+          "name": "Mamiko Ohara"
+        },
+        {
+          "affiliation": "Department of Nephrology, Kameda Medical Center",
+          "name": "Tomo Suzuki"
+        },
+        {
+          "affiliation": "Japanese Red Cross Saitama Hospital",
+          "name": "Maiko Hirata"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Shun Manabe"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Keiko Kawachi"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Taro Akihisa"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Shiho Makabe"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Masayo Sato"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Naomi Iwasa"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Rie Yoshida"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Junichi Hoshino"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Toshio Mochizuki"
+        },
+        {
+          "affiliation": "Department of Blood Purification, Tokyo Women\u2019s Medical University",
+          "name": "Ken Tsuchiya"
+        },
+        {
+          "affiliation": "Department of Nephrology, Tokyo Women\u2019s Medical University",
+          "name": "Kosaku Nitta"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://doi.org/10.1038/s41598-022-23882-7"
+        }
+      ],
+      "abstract": "Abstract A practical research method integrating data-driven machine learning with conventional model-driven statistics is sought after in medicine. Although glomerular hypertrophy (or a large renal corpuscle) on renal biopsy has pathophysiological implications, it is often misdiagnosed as adaptive/compensatory hypertrophy. Using a generative machine learning method, we aimed to explore the factors associated with a maximal glomerular diameter of\u2009\u2265\u2009242.3\u00a0\u03bcm. Using the frequency-of-usage variable ranking in generative models, we defined the machine learning scores with symbolic regression via genetic programming (SR via GP). We compared important variables selected by SR with those selected by a point-biserial correlation coefficient using multivariable logistic and linear regressions to validate discriminatory ability, goodness-of-fit, and collinearity. Body mass index, complement component C3, serum total protein, arteriolosclerosis, C-reactive protein, and the Oxford E1 score were ranked among the top 10 variables with high machine learning scores using SR via GP, while the estimated glomerular filtration rate was ranked 46 among the 60 variables. In multivariable analyses, the R 2 value was higher (0.61 vs. 0.45), and the corrected Akaike Information Criterion value was lower (402.7 vs. 417.2) with variables selected with SR than those selected with point-biserial r. There were two variables with variance inflation factors higher than 5 in those using point-biserial r and none in SR. Data-driven machine learning models may be useful in identifying significant and insignificant correlated factors. Our method may be generalized to other medical research due to the procedural simplicity of using top-ranked variables selected by machine learning.",
+      "title": "Machine learning for morbid glomerular hypertrophy"
+    },
+    "id": "976a61b8c54f48e28fd4bffb6ec6ddd6",
+    "created_date": "2022-11-13T12:14:21Z"
+  },
+  {
+    "last_updated": "2023-12-03T00:48:35Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.7717/peerj.6543",
+          "type": "doi"
+        },
+        {
+          "id": "2167-8359",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "7",
+        "country": "US",
+        "issns": [
+          "2167-8359"
+        ],
+        "publisher": "PeerJ Inc.",
+        "language": [
+          "EN"
+        ],
+        "title": "PeerJ"
+      },
+      "month": "3",
+      "keywords": [
+        "Dementia",
+        "Interpretable model",
+        "Sparse high-order interaction",
+        "Alzheimer\u2019s disease (AD)",
+        "Computer-aided diagnosis (CAD) model",
+        "SHIMR"
+      ],
+      "year": "2019",
+      "start_page": "e6543",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        },
+        {
+          "code": "QH301-705.5",
+          "scheme": "LCC",
+          "term": "Biology (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan",
+          "name": "Diptesh Das"
+        },
+        {
+          "affiliation": "Data Science Laboratory, hhc Data Creation Center, Eisai Co. Ltd., Tsukuba, Japan",
+          "name": "Junichi Ito"
+        },
+        {
+          "affiliation": "Data Science Laboratory, hhc Data Creation Center, Eisai Co. Ltd., Tsukuba, Japan",
+          "name": "Tadashi Kadowaki"
+        },
+        {
+          "affiliation": "Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Chiba, Japan",
+          "name": "Koji Tsuda"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "PDF",
+          "type": "fulltext",
+          "url": "https://peerj.com/articles/6543.pdf"
+        },
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://peerj.com/articles/6543/"
+        }
+      ],
+      "abstract": "We present an interpretable machine learning model for medical diagnosis called sparse high-order interaction model with rejection option (SHIMR). A decision tree explains to a patient the diagnosis with a long rule (i.e., conjunction of many intervals), while SHIMR employs a weighted sum of short rules. Using proteomics data of 151 subjects in the Alzheimer\u2019s Disease Neuroimaging Initiative (ADNI) dataset, SHIMR is shown to be as accurate as other non-interpretable methods (Sensitivity, SN = 0.84 \u00b1 0.1, Specificity, SP = 0.69 \u00b1 0.15 and Area Under the Curve, AUC = 0.86 \u00b1 0.09). For clinical usage, SHIMR has a function to abstain from making any diagnosis when it is not confident enough, so that a medical doctor can choose more accurate but invasive and/or more costly pathologies. The incorporation of a rejection option complements SHIMR in designing a multistage cost-effective diagnosis framework. Using a baseline concentration of cerebrospinal fluid (CSF) and plasma proteins from a common cohort of 141 subjects, SHIMR is shown to be effective in designing a patient-specific cost-effective Alzheimer\u2019s disease (AD) pathology. Thus, interpretability, reliability and having the potential to design a patient-specific multistage cost-effective diagnosis framework can make SHIMR serve as an indispensable tool in the era of precision medicine that can cater to the demand of both doctors and patients, and reduce the overwhelming financial burden of medical diagnosis.",
+      "title": "An interpretable machine learning model for diagnosis of Alzheimer's disease"
+    },
+    "admin": {
+      "seal": true
+    },
+    "created_date": "2019-03-03T15:05:29Z",
+    "id": "981e5ae1ea324b7bbddd345b53e4789e"
+  },
+  {
+    "last_updated": "2022-12-22T04:01:21Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1424-8220",
+          "type": "eissn"
+        },
+        {
+          "id": "10.3390/s19183903",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "19",
+        "number": "18",
+        "country": "CH",
+        "issns": [
+          "1424-8220"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Sensors"
+      },
+      "month": "9",
+      "keywords": [
+        "immersive analytics",
+        "dimensionality reduction",
+        "mixed reality",
+        "covariance graph",
+        "subspace clustering"
+      ],
+      "year": "2019",
+      "start_page": "3903",
+      "subject": [
+        {
+          "code": "TP1-1185",
+          "scheme": "LCC",
+          "term": "Chemical technology"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Institute of Databases and Information Systems, University of Ulm, 89081 Ulm, Germany",
+          "name": "Burkhard Hoppenstedt"
+        },
+        {
+          "affiliation": "Institute of Databases and Information Systems, University of Ulm, 89081 Ulm, Germany",
+          "name": "Manfred Reichert"
+        },
+        {
+          "affiliation": "Institute of Databases and Information Systems, University of Ulm, 89081 Ulm, Germany",
+          "name": "Klaus Kammerer"
+        },
+        {
+          "affiliation": "Department for Psychotherapy and Biopsychosocial Health, Danube University Krems, 3500 Krems an der Donau, Austria",
+          "name": "Thomas Probst"
+        },
+        {
+          "affiliation": "Department of Psychiatry and Psychotherapy, University of Regensburg, 93053 Regensburg, Germany",
+          "name": "Winfried Schlee"
+        },
+        {
+          "affiliation": "Faculty of Computer Science, Otto von Guericke University Magdeburg, 39106 Magdeburg, Germany",
+          "name": "Myra Spiliopoulou"
+        },
+        {
+          "affiliation": "Institute of Databases and Information Systems, University of Ulm, 89081 Ulm, Germany",
+          "name": "R\u00fcdiger Pryss"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "pdf",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/1424-8220/19/18/3903"
+        }
+      ],
+      "abstract": "Visual analytics are becoming increasingly important in the light of big data and related scenarios. Along this trend, the field of immersive analytics has been variously furthered as it is able to provide sophisticated visual data analytics on one hand, while preserving user-friendliness on the other. Furthermore, recent hardware developments such as smart glasses, as well as achievements in virtual-reality applications, have fanned immersive analytic solutions. Notably, such solutions can be very effective when they are applied to high-dimensional datasets. Taking this advantage into account, the work at hand applies immersive analytics to a high-dimensional production dataset to improve the digital support of daily work tasks. More specifically, a mixed-reality implementation is presented that will support manufacturers as well as data scientists to comprehensively analyze machine data. As a particular goal, the prototype will simplify the analysis of manufacturing data through the usage of dimensionality reduction effects. Therefore, five aspects are mainly reported in this paper. First, it is shown how dimensionality reduction effects can be represented by clusters. Second, it is presented how the resulting information loss of the reduction is addressed. Third, the graphical interface of the developed prototype is illustrated as it provides (1) a correlation coefficient graph, (2) a plot for the information loss, and (3) a 3D particle system. In addition, an implemented voice recognition feature of the prototype is shown, which was considered to be being promising to select or deselect data variables users are interested in when analyzing the data. Fourth, based on a machine learning library, it is shown how the prototype reduces computational resources using smart glasses. The main idea is based on a recommendation approach as well as the use of subspace clustering. Fifth, results from a practical setting are presented, in which the prototype was shown to domain experts. The latter reported that such a tool is actually helpful to analyze machine data daily. Moreover, it was reported that such a system can be used to educate machine operators more properly. As a general outcome of this work, the presented approach may constitute a helpful solution for the industry as well as other domains such as medicine.",
+      "title": "Dimensionality Reduction and Subspace Clustering in Mixed Reality for Condition Monitoring of High-Dimensional Production Data"
+    },
+    "admin": {
+      "seal": false
+    },
+    "created_date": "2019-09-23T14:28:28Z",
+    "id": "9d8580ed0420435b9e62bf57acea12a6"
+  },
+  {
+    "last_updated": "2023-05-25T04:19:55Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1664-462X",
+          "type": "eissn"
+        },
+        {
+          "id": "10.3389/fpls.2023.1173328",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "14",
+        "country": "CH",
+        "issns": [
+          "1664-462X"
+        ],
+        "publisher": "Frontiers Media S.A.",
+        "language": [
+          "EN"
+        ],
+        "title": "Frontiers in Plant Science"
+      },
+      "month": "5",
+      "keywords": [
+        "malaria",
+        "traditional and indigenous knowledge",
+        "machine learning",
+        "botany",
+        "ethnobotany",
+        "sampling bias"
+      ],
+      "year": "2023",
+      "subject": [
+        {
+          "code": "SB1-1110",
+          "scheme": "LCC",
+          "term": "Plant culture"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Adam Richard-Bollans"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Conal Aitken"
+        },
+        {
+          "affiliation": "EaStCHEM, School of Chemistry, University of St Andrews, St Andrews, United Kingdom",
+          "name": "Conal Aitken"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Alexandre Antonelli"
+        },
+        {
+          "affiliation": "Gothenburg Global Biodiversity Centre, Department of Biological and Environmental Sciences, University of Gothenburg, Gothenburg, Sweden",
+          "name": "Alexandre Antonelli"
+        },
+        {
+          "affiliation": "Department of Biology, University of Oxford, Oxford, United Kingdom",
+          "name": "Alexandre Antonelli"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "C\u00e1ssia Bitencourt"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "David Goyder"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Eve Lucas"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Ian Ondo"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Oscar A. P\u00e9rez-Escobar"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Samuel Pironon"
+        },
+        {
+          "affiliation": "UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC), Cambridge, United Kingdom",
+          "name": "Samuel Pironon"
+        },
+        {
+          "affiliation": "School of Biological, Earth and Environmental Sciences, University College Cork, Cork, Ireland",
+          "name": "James E. Richardson"
+        },
+        {
+          "affiliation": "Tropical Diversity Section, Royal Botanic Garden, Edinburgh, United Kingdom",
+          "name": "James E. Richardson"
+        },
+        {
+          "affiliation": "Departamento de Biolog\u00eda, Facultad de Ciencias Naturales, Universidad del Rosario, Bogot\u00e1, Colombia",
+          "name": "James E. Richardson"
+        },
+        {
+          "affiliation": "Environmental Research Institute, University College Cork, Cork, Ireland",
+          "name": "James E. Richardson"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "David Russell"
+        },
+        {
+          "affiliation": "Gothenburg Global Biodiversity Centre, Department of Biological and Environmental Sciences, University of Gothenburg, Gothenburg, Sweden",
+          "name": "Daniele Silvestro"
+        },
+        {
+          "affiliation": "0Department of Biology, University of Fribourg, Fribourg, \u00a0Switzerland",
+          "name": "Daniele Silvestro"
+        },
+        {
+          "affiliation": "1Swiss Institute of Bioinformatics, Fribourg, Switzerland",
+          "name": "Daniele Silvestro"
+        },
+        {
+          "affiliation": "2School of Pharmacy and Medical Sciences, University of Bradford, Bradford, United Kingdom",
+          "name": "Colin W. Wright"
+        },
+        {
+          "affiliation": "Royal Botanic Gardens, Kew, Richmond, United Kingdom",
+          "name": "Melanie-Jayne R. Howes"
+        },
+        {
+          "affiliation": "3Institute of Pharmaceutical Science, King\u2019s College London, Franklin-Wilkins Building, London, United Kingdom",
+          "name": "Melanie-Jayne R. Howes"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1173328/full"
+        }
+      ],
+      "abstract": "Plants are a rich source of bioactive compounds and a number of plant-derived antiplasmodial compounds have been developed into pharmaceutical drugs for the prevention and treatment of malaria, a major public health challenge. However, identifying plants with antiplasmodial potential can be time-consuming and costly. One approach for selecting plants to investigate is based on ethnobotanical knowledge which, though having provided some major successes, is restricted to a relatively small group of plant species. Machine learning, incorporating ethnobotanical and plant trait data, provides a promising approach to improve the identification of antiplasmodial plants and accelerate the search for new plant-derived antiplasmodial compounds. In this paper we present a novel dataset on antiplasmodial activity for three flowering plant families \u2013 Apocynaceae, Loganiaceae and Rubiaceae (together comprising c. 21,100 species) \u2013 and demonstrate the ability of machine learning algorithms to predict the antiplasmodial potential of plant species. We evaluate the predictive capability of a variety of algorithms \u2013 Support Vector Machines, Logistic Regression, Gradient Boosted Trees and Bayesian Neural Networks \u2013 and compare these to two ethnobotanical selection approaches \u2013 based on usage as an antimalarial and general usage as a medicine. We evaluate the approaches using the given data and when the given samples are reweighted to correct for sampling biases. In both evaluation settings each of the machine learning models have a higher precision than the ethnobotanical approaches. In the bias-corrected scenario, the Support Vector classifier performs best \u2013 attaining a mean precision of 0.67 compared to the best performing ethnobotanical approach with a mean precision of 0.46. We also use the bias correction method and the Support Vector classifier to estimate the potential of plants to provide novel antiplasmodial compounds. We estimate that 7677 species in Apocynaceae, Loganiaceae and Rubiaceae warrant further investigation and that at least 1300 active antiplasmodial species are highly unlikely to be investigated by conventional approaches. While traditional and Indigenous knowledge remains vital to our understanding of people-plant relationships and an invaluable source of information, these results indicate a vast and relatively untapped source in the search for new plant-derived antiplasmodial compounds.",
+      "title": "Machine learning enhances prediction of plants as potential sources of antimalarials"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "a016d3255e8c4e6fb9f8ad749ce3b106",
+    "created_date": "2023-05-25T04:19:55Z"
+  },
+  {
+    "last_updated": "2023-12-03T12:39:45Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/biomedicines9020159",
+          "type": "doi"
+        },
+        {
+          "id": "2227-9059",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "9",
+        "number": "2",
+        "country": "CH",
+        "issns": [
+          "2227-9059"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Biomedicines"
+      },
+      "month": "02",
+      "keywords": [
+        "proteomics",
+        "artificial intelligence",
+        "biomarkers",
+        "hepatocellular carcinoma",
+        "translational medicine"
+      ],
+      "year": "2021",
+      "start_page": "159",
+      "subject": [
+        {
+          "code": "QH301-705.5",
+          "scheme": "LCC",
+          "term": "Biology (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Laboratory of Bioinformatics, Institute of Translational Medicine and Biotechnology, I.M. Sechenov First Moscow State Medical University (Sechenov University), 119991 Moscow, Russia",
+          "name": "Nurbubu T. Moldogazieva"
+        },
+        {
+          "affiliation": "Department of Biochemistry and Molecular Biology, N.I. Pirogov Russian National Research Medical University, 117997 Moscow, Russia",
+          "name": "Innokenty M. Mokhosoev"
+        },
+        {
+          "affiliation": "Department of Pharmacology, A.P. Nelyubin Institute of Pharmacy, I.M. Sechenov First Moscow State Medical University (Sechenov University), 119991 Moscow, Russia",
+          "name": "Sergey P. Zavadskiy"
+        },
+        {
+          "affiliation": "Department of Biochemistry and Molecular Biology, N.I. Pirogov Russian National Research Medical University, 117997 Moscow, Russia",
+          "name": "Alexander A. Terentiev"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2227-9059/9/2/159"
+        }
+      ],
+      "abstract": "Hepatocellular carcinoma (HCC) is the most common primary cancer of the liver with high morbidity and mortality rates worldwide. Since 1963, when alpha-fetoprotein (AFP) was discovered as a first HCC serum biomarker, several other protein biomarkers have been identified and introduced into clinical practice. However, insufficient specificity and sensitivity of these biomarkers dictate the necessity of novel biomarker discovery. Remarkable advancements in integrated multiomics technologies for the identification of gene expression and protein or metabolite distribution patterns can facilitate rising to this challenge. Current multiomics technologies lead to the accumulation of a huge amount of data, which requires clustering and finding correlations between various datasets and developing predictive models for data filtering, pre-processing, and reducing dimensionality. Artificial intelligence (AI) technologies have an enormous potential to overcome accelerated data growth, complexity, and heterogeneity within and across data sources. Our review focuses on the recent progress in integrative proteomic profiling strategies and their usage in combination with machine learning and deep learning technologies for the discovery of novel biomarker candidates for HCC early diagnosis and prognosis. We discuss conventional and promising proteomic biomarkers of HCC such as AFP, lens culinaris agglutinin (LCA)-reactive L3 glycoform of AFP (AFP-L3), des-gamma-carboxyprothrombin (DCP), osteopontin (OPN), glypican-3 (GPC3), dickkopf-1 (DKK1), midkine (MDK), and squamous cell carcinoma antigen (SCCA) and highlight their functional significance including the involvement in cell signaling such as Wnt/\u03b2-catenin, PI3K/Akt, integrin \u03b1v\u03b23/NF-\u03baB/HIF-1\u03b1, JAK/STAT3 and MAPK/ERK-mediated pathways dysregulated in HCC. We show that currently available computational platforms for big data analysis and AI technologies can both enhance proteomic profiling and improve imaging techniques to enhance the translational application of proteomics data into precision medicine.",
+      "title": "Proteomic Profiling and Artificial Intelligence for Hepatocellular Carcinoma Translational Medicine"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "a028255b76d84dd0b1102e0faca89a16",
+    "created_date": "2021-02-07T00:02:21Z"
+  },
+  {
+    "last_updated": "2022-12-21T16:35:23Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1936-9018",
+          "type": "pissn"
+        },
+        {
+          "id": "10.5811/westjem.2019.1.41244",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "20",
+        "number": "2",
+        "country": "US",
+        "issns": [
+          "1936-900X",
+          "1936-9018"
+        ],
+        "publisher": "eScholarship Publishing, University of California",
+        "language": [
+          "EN"
+        ],
+        "title": "Western Journal of Emergency Medicine"
+      },
+      "month": "2",
+      "year": "2019",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        },
+        {
+          "code": "RC86-88.9",
+          "scheme": "LCC",
+          "term": "Medical emergencies. Critical care. Intensive care. First aid"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "University of Iowa Carver College of Medicine, Department of Emergency Medicine, Iowa City, Iowa",
+          "name": "Sangil Lee"
+        },
+        {
+          "affiliation": "University of Iowa Carver College of Medicine, Department of Emergency Medicine, Anesthesia and Critical Care, Iowa City, Iowa",
+          "name": "Nicholas M. Mohr"
+        },
+        {
+          "affiliation": "University of Iowa Tippie College of Business, Department of Management Sciences, Iowa City, Iowa",
+          "name": "W. Nicholas Street"
+        },
+        {
+          "affiliation": "University of Iowa Carver College of Medicine, Department of Internal Medicine, Iowa City, Iowa",
+          "name": "Prakash Nadkarni"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "https://escholarship.org/uc/item/71f2f15r"
+        }
+      ],
+      "abstract": "Health informatics is a vital technology that holds great promise in the healthcare setting. We describe two prominent health informatics tools relevant to emergency care, as well as the historical background and the current state of informatics. We also identify recent research findings and practice changes. The recent advances in machine learning and natural language processing (NLP) are a prominent development in health informatics overall and relevant in emergency medicine (EM). A basic comprehension of machine-learning algorithms is the key to understand the recent usage of artificial intelligence in healthcare. We are using NLP more in clinical use for documentation. NLP has started to be used in research to identify clinically important diseases and conditions. Health informatics has the potential to benefit both healthcare providers and patients. We cover two powerful tools from health informatics for EM clinicians and researchers by describing the previous successes and challenges and conclude with their implications to emergency care.",
+      "title": "Machine Learning in Relation to Emergency Medicine Clinical and Operational Scenarios: An Overview"
+    },
+    "created_date": "2019-03-08T22:15:07Z",
+    "id": "aaf141c5b2474261b2e26f5fd2b927e0"
+  },
+  {
+    "last_updated": "2024-04-15T19:00:33Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1330-3651",
+          "type": "pissn"
+        },
+        {
+          "id": "1848-6339",
+          "type": "eissn"
+        },
+        {
+          "id": "10.17559/TV-20230222000374",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "30",
+        "number": "6",
+        "country": "HR",
+        "issns": [
+          "1330-3651",
+          "1848-6339"
+        ],
+        "publisher": "Faculty of Mechanical Engineering in Slavonski Brod, Faculty of Electrical Engineering in Osijek, Faculty of Civil Engineering in Osijek",
+        "language": [
+          "EN"
+        ],
+        "title": "Tehni\u010dki Vjesnik"
+      },
+      "end_page": "1790",
+      "keywords": [
+        "artificial intelligence",
+        "DC-FNN",
+        "health monitoring",
+        "sensors",
+        "smart watch",
+        "sports"
+      ],
+      "year": "2023",
+      "start_page": "1784",
+      "subject": [
+        {
+          "code": "TA1-2040",
+          "scheme": "LCC",
+          "term": "Engineering (General). Civil engineering (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Huami (Nanjing) Information Technology Co., Ltd. (Zepp Health), Nanjing 210019, Jiangsu, China",
+          "name": "Xu Yuantai"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "https://hrcak.srce.hr/file/446398"
+        }
+      ],
+      "abstract": "Improved athletic performance is expected to result from the convergence of semiconductor technology from the wearable device equipped with physiology and its clinical and translation tools. The increasing usage of smart wearable devices has made an impact not only on the lifestyle of the users, but also on biological research and personalized healthcare services.This research optimises the usage of smart watch integrated devices through wireless connection, which sheds light on wearable sensors used in sports medicine. The major objective of this article is to provide a recommended method of using wearable technology for evaluating the efficacy of health and sports monitoring. Any sport at any level may stand to profit from this embedded technology, as might academic research labs, sports medicine practises, and professional sports teams all working toward the same goal of improving player and team performance. As the primary data generated by wearable devices include the heartbeat rate, step count, and energy consumed, researchers have concentrated on associating cardiovascular disorders with these data. A Discrete Chaotic Fuzzy Neural Network (DC-FNN) model was presented to analyse smart watch functionality for use in fitness and health tracking. This study used machine learning algorithm for analyzing the performance of wearing smart watch embedded device among sports players. The study employs discrete chaotic Fuzzy neural network for evaluating the recognition time and efficiency of the embedded device. The Discrete Chaotic Fuzzy Neural Network (DC-FNN) theories focus on the expertise and experience of specialists who understand how sports system works in different parameters. The major elements of the DC-FNN strategy are based mostly on expert expertise. This research work highlights how wearable sensors can help players and trainers keep tabs on athletes' biomechanical and physiological health in real time, preventing or delaying the start of injuries and providing a more accurate picture of how they are doing. Athlete involvement risk is mediated by the interplay between tissue health and training.",
+      "title": "Discrete Chaotic Fuzzy Neural Network (DC-FNN) Based Smart Watch Embedded Devices for Sports and Health Monitoring"
+    },
+    "id": "ab4ce8de29774064a7a6b1d808cea0ad",
+    "created_date": "2024-04-15T19:00:33Z"
+  },
+  {
+    "last_updated": "2023-03-09T12:30:16Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1017/cts.2018.162",
+          "type": "doi"
+        },
+        {
+          "id": "2059-8661",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "2",
+        "country": "GB",
+        "issns": [
+          "2059-8661"
+        ],
+        "publisher": "Cambridge University Press",
+        "language": [
+          "EN"
+        ],
+        "title": "Journal of Clinical and Translational Science"
+      },
+      "month": "June",
+      "end_page": "41",
+      "year": "2018",
+      "start_page": "40",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "The University of Utah School of Medicine",
+          "name": "Teresa Taft"
+        },
+        {
+          "affiliation": "The University of Utah School of Medicine",
+          "name": "Charlene Weir"
+        },
+        {
+          "affiliation": "The University of Utah School of Medicine",
+          "name": "Heidi Kramer"
+        },
+        {
+          "affiliation": "The University of Utah School of Medicine",
+          "name": "Julio Facelli"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://www.cambridge.org/core/product/identifier/S2059866118001620/type/journal_article"
+        }
+      ],
+      "abstract": "OBJECTIVES/SPECIFIC AIMS: Electronic health records have become the fulcrum for efforts by institutions to reduce errors, improve safety, reduce cost, and improve compliance with recommended guidelines. In recent times they are also being considered as a potential game changer for improving patient recruitment for clinical trials (CT). Although the use of CDS for clinical care is partially understood, its use for CT patient identification and recruitment is young and a great deal of experimental and theoretical research is needed in this area to optimize the use of CDS tools that personalize patient care by identifying relevant clinical trials and other research interventions. The use of CDS tools for CT recruitment offers a great deal of possibilities, but some initial usage has been disappointing. This may not be surprising because, while the implementation of these interventions is somewhat simple, ensuring that they are embedded into the right point of the care providers workflow is highly complex and may affect many actors in a clinical care setting, including patients, nurses, physicians, clinical coordinators, and investigators. Overcoming the challenges of alerting providers regarding their patient\u2019s eligibility for clinical trials is an important and difficult challenge. Translating that effort into effective recruitment will require understanding of the psychological and workflow barriers and facilitators for how providers respond to automated alerts requesting patient referrals. Evidence from using CDS for clinical care that shows alerts become increasingly ignored over time or with more exposure (1, 2). The features, timing, and method of these alerts are important usability factors that may influence effectiveness of the referral process. Focus group methods capture the shared perspectives of a phenomenon and have been shown to be an effective method for identifying perceptions, attitudes, information needs, and other human factors effecting workflow (3, 4). Our objective was to develop a generalizable method for measuring physician and clinic level factors defining a successful point of care recruitment program in an outpatient care setting. To achieve this we attempted to (a) Characterize provider\u2019s attitudes regarding CTs referrals and research. (b) Identify perceived workflow strategies and facilitators relevant to CT recruitment in primary care. (c) Develop and test a pilot instrument. METHODS/STUDY POPULATION: The methods had 3 phases: focus groups, development of item pool, and tool development. Focus group topics were developed by 4 experienced investigators, with training in biomedical informatics, cognitive psychology, human factors, and workflow analysis, based upon a knowledge of the literature. A script was developed and the methods were piloted with a group of 4 clinicians. In all, 16 primary care providers, 5 clinic directors, and 6 staff supervisors participated in 6 focus groups, with an average of 5 participants each, to discuss clinical trial recruitment at the point of care. Focus groups were conducted by the development team. Audio recording were content coded and analyzed to identify themes by consensus of 3 authors. Item Pool generation involved extracting items identified in the focus group analysis, selecting a subset deemed most interesting based on knowledge of the recruitment literature and iteratively writing and refining questions. Instrument development consisted of piloting an initial 7-item questionnaire with a local primary provider sample. Questions were correlated with the item pool and limited to reduce provider burden, based on those that the study team deemed most applicable to information technology supported recruitment. Descriptive statistical analysis was performed on the pilot survey results. An online survey was developed based on the findings of the focus groups and emailed to 127 primary care providers who were invited to participate. In total, 36 questionnaires were completed. This study was approved by the University of Utah Institutional Review Board. RESULTS/ANTICIPATED RESULTS: The results section is organized into 3 sections: (a) Focus groups, (b) Item generation; and (c) Questionnaire pilot. (I) (1) Focus Groups. Themes identified through a qualitative review are presented below with illustrative comments of participants. The diversity of attitudes and willingness to support clinical trial recruitment varied so substantially that no single pattern emerged. Attitudes ranged from enthusiastic support, to interest in some trials to disinterest or distrust in trials in general. Compensation for time spent, which could be monetary, informational, or through professional recognition; and provider relationship with the study team or pre-selection of specific trials by a clinic oversight committee, and importance to providers practice positively affected willingness to help recruit. \u201cI would love to get people into clinical trials as much as possible... If it works for them you are going to help a whole lot of other people.\u201d If we felt like we have done every possible thing that was already established as evidence-based and it didn\u2019t work out, then we would consider the trials. I think that studies are more beneficial for specific specialists... There might be a whole slew of things that I never deal with or don\u2019t care about because it\u2019s not prevalent for my patient population. Local and reputable... A long distance someone asking to do something is just not the same as someone in the trenches with you. The bottom line is how much work is involved at our end and if there is going to be any compensation for that. I think also the providers would like have feedback on what they referred them to. And how did it go? So did we pick the right patient? ... It helps us to know, did they even sign up for the study? Getting your name on a research paper would be nice too. Lack of information regarding trials reduced support for recruitment of patients. Providers stated that they do not know how to quickly find information about studies, nor do they have time to find the information, and therefore cannot efficiently council patients regarding trial participation. Notifications regarding clinical trials that were deemed to be important included: Trial coordinator intention to recruit patients, enrollment of a patient in a clinical drug trial, trial progress and result updates, and reports of effectiveness of provider recruitment efforts. Perceived information needs regarding trials that providers are referring patients to included: trial purpose, design, benefits and risks, potential side effects, intervention details, medication class (mechanism of action), drug interactions with study drug, study timeline, coordinator contact information, link to print off patient handouts, enrollment instructions, and a link to study website. (2) It\u2019s just we don\u2019t know any of the information ... and it can\u2019t take any of our time. ... I don\u2019t have time to research it. Sometimes the patients ask me questions about it and I would like to be in a position where I have some information about it before I am asked. It would be nice to be notified if they [my patients] are enrolled in the trial, when it turns into actual recruitment. I do like to know if they\u2019re in [a trial] so that when they come in for problems, I at least know that they might be on a study medication so I can be safe. I\u2019ll get an ER message, \u201cThe patient got admitted. There blood pressure\u2019s, you know, tanked, because they\u2019re on a study drug I didn\u2019t know anything about.\u201d if there\u2019s certain side effects that I need to be watching out for. It would also be good to have a contact person from the study in case we need to notify them of. \u201cthis person\u2019s possible having an adverse event. Look into it more.\u201d (3) Provider burden associated with patient recruitment appeared to be a deterrent. These burdens included adding to the providers task list, increasing the time required to complete a visit, and usurpation of control over the patients care plan with the associated effect on provider quality scores. We don\u2019t have time. I mean, we don\u2019t even take a lunch break. I have 15 minutes and now this is taking this many minutes away from my 15 minutes. I am just sick of extra work. We already have so much extra work. It\u2019s just more stuff to do. We are maxed out on stuff to do. Right now, part of our compensation depends on having our patients A1Cs controlled. And so if we\u2019re taking a chance that maybe they\u2019re getting a medicine, maybe they\u2019re not, maybe it\u2019ll help, maybe it won\u2019t, its gonna further delay our ability to get paid. Cause they\u2019re like \u201cI\u2019m not going to let you go mess up my patient and I\u2019m going to have to deal with the consequences is kind of the way they think. If you\u2019re going to put the patient in a study, being able drop them from our registry so we don\u2019t get penalized for a negative outcome [is important]. (4) Patient\u2019s needs were a priority among factors influencing likelihood to help recruitment patients. Providers considered perceived benefit or risk to the patient, such as additional healthcare services, increased monitoring, financial assistance, or access to new treatments when other options have been ineffective, important; as well as continuance of established care that has proven effective, and ethical recruitment that addresses language and mental health to ensure that patients can make decisions regarding study participation. If there\u2019s something great that\u2019s gonna benefit a patient, I would definitely wanna know about it to give them that option. You know that\u2019s what we wanna try to do is make our patients better. Someone who is really well controlled and doing well, I would not tend to put them toward the study. Just keep going with what\u2019s working right now. Sometimes there\u2019s financial incentives for them to participate, so you know, if its a good fit its easy to at least offer that to the patient. They get treatment maybe that they can\u2019t afford. You don\u2019t want to be seen as somebody who's forcing a patient... if their provider is telling them this is a good idea you are more likely to get your patient to do it. I think they have to understand what a clinical trial is, first of all, in that it\u2019s a trial. Right? We\u2019re trying to figure out if a certain treatment is good or not. It may not work. It may work. With many patients, they don\u2019t only have medical problems, but significant mental illness that sometimes interferes a lot with just our treatment of them here for their clinical problems. And so, that probably would interfere with someone\u2019s ability to understand and consent to a trial. And the patients have the right to make that choice. I don\u2019t need to be\u2014I don\u2019t mind influencing them on things I know about, I think are invaluable, but I don\u2019t need to be a barrier to them. (5) Perceived responsibility in trial recruitment varied substantially, from no involvement at all, to prescreening, counseling, or recruiting patients. Some providers felt that they should have the right to say \u201cno\u201d to recruitment of their patients while others believed prescreening was an unnecessary burden, outside of their role as a primary care provider. if someone prescreens and thinks its appropriate and gives me that judgment call to say, do you think it would be a good fit? I think one of them, they sent, and I said, Oh, I don\u2019t think it would be a good fit because of this...So that would be fine. I don\u2019t think I need to be a gatekeeper for studies. I mean, if there\u2019s people that qualify for a study, and there\u2019s a great study that\u2019s been approved, and they can recruit them without me knowing, that doesn\u2019t bother me in the slightest. I liked how it was\u2014I could do a simple referral ... someone else figured out the qualifications. if we knew of ongoing studies and if we thought a certain patient may qualify for a certain study, we just contact the coordinator, and then they just take care of the rest. I think that appropriate ... from our perspective, would be, \u201cAre you interested?\u201d \u201cThis is the number for a person who can sit with you, talk with you about a trial, tell you everything about it, answer your questions, and then you can make a decision.\u201d I\u2019m not going to let you go mess up my patient and I\u2019m going to have to deal with the consequences. (6) A clinic-implementation approach that systemizes workflow, limits the number of trials providers are asked to recruit for, and minimizes provider time burden is needed. Suggested methods for informing providers of patient clinical trial eligibility included: email, alerts, in-basket messages, texts, phone-calls, and in-person contact. People are so sick of change, change, change, change ... if there\u2019s no stability whatsoever, then people get frustrated and start to burn out. Having my staff remember how to do it correctly and I remember what studies we have going ... it becomes somewhat of a burden... it\u2019s hard for us to remember as we are flying through our day. There just needs to be a clear understanding with those roles... Who does the patient call? We don\u2019t want to look like we don\u2019t know what we are doing. There probably should be a selection committee put together from various people who have stakes in the community, at least who can say, \u201cThis would be applicable for xx clinic.\u201d (7) Provider Suggestions Providers had multiple suggestions regarding notification methods. (II) Development of item pool and construction of questionnaire The specific items were constructed from literature review on physician\u2019s attitudes and results from the focus group. The overarching concern was on readability, brief questionnaire size, and relevance. A large item were constructed and then reduced through piloting. (III) Questionnaire Pilot Results: The 7-item pilot questionnaire was completed by 36 physicians (28% response rate). In this section, we report the empirical results. DISCUSSION/SIGNIFICANCE OF IMPACT: Discussion Relevance of Methods. Overall, the described methods for determining components for a recruitment program in primary care shows early promise. The focus groups that consisted of providers, staff and administrators resulted in insights as to workflows, attitudes, and clinical processes. These insights significantly varied across clinics. This variation supported the need for an individualized clinic-based approach that will meet local needs. During the course of the study, participants were willing to participate in all activities (although some requested payment). We were able to conduct the focus groups as scheduled and obtained the desired input. The analysis of the focus group transcripts was performed using iterative discussions and did not needed any special adaptation for this area of study. The pilot survey response rate was within the expected for this type of study. Focus groups can rapidly provide rich information regarding attitudes and other factors affecting provider participation at the point of care. However, findings from focus groups must always be confirmed through larger studies. It is important to keep the focus groups small and to hold multiple focus groups to offset the more vocal participants that may influence comments of others. This study shows that using our 3-step approach it is possible to gather important information on clinician\u2019s and staff perceptions and needs to participate in point of care patient recruitment for CT. The focus groups also provide an important step for survey construction. Designing surveys empirically requires multiple validation efforts, which will be conducted in the future. However, we can draw preliminary conclusions from the results of the pilot study which are quite informative and they are discussed below. Near future work will be to expand the response rate through additional local survey and conduct formal psychometric testing and validation both locally and nationally. A final validation will be proposed through the CTSA consortiums. Variation in responses. There was a lack of normal curves in our survey results. This points to the need to target education and recruitment efforts by provider type (with similar perspectives). Identification of these types would be useful. Some specific points regarding variability that should be considered in program design. Preferences for trail recruitment methods. Many trial recruitment notification methods have the potential to be successful when used judiciously and done well, particularly if the trial coordinator/provider relationship is supported by reciprocal benefits to the provider. Consistency in workflow within seems paramount to success. Providers can pull some notifications at a time they choose, while other notifications interrupt and must be used sparingly. Some allow review of multiple patients at the same time, and some foster easy access to the patient\u2019s medical record. Conclusions. The authors recommend that recruitment HIT be customizable at the clinic and provider level by responsibility and interest to allow selection of level of information, delivery method, that is, email, text, in-basket, alert, dashboard, mail; frequency of notification, and an opt out feature. These customizable options will allow for better support of clinic workflow or goals. There is the potential with machine learning technology to monitor provider interactions with trial notifications and for the system to automatically make adjustments to the method and level that best supports each physician. Limitations: The major limitation is the focus on one site only and one delivery system (university based). The low response makes generalization difficult. Efforts to improve the rate are underway. Many populations are under-represented in Utah. Full psychometric analysis was not conducted but will part of the final project.",
+      "title": "2444 Development of an instrument to identify factors influencing point of care recruitment in primary care settings: A pilot study at University of Utah Health"
+    },
+    "id": "b25aaa4190534828b4f9e3553754627f",
+    "created_date": "2023-03-09T12:29:52Z"
+  },
+  {
+    "last_updated": "2023-11-20T18:21:56Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/cancers12113103",
+          "type": "doi"
+        },
+        {
+          "id": "2072-6694",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "12",
+        "number": "11",
+        "country": "CH",
+        "issns": [
+          "2072-6694"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Cancers"
+      },
+      "month": "10",
+      "keywords": [
+        "chronotherapy in cancer",
+        "core-clock ODE models",
+        "circadian time prediction",
+        "machine learning",
+        "harmonic regression",
+        "computational methods for rhythmicity analysis"
+      ],
+      "year": "2020",
+      "start_page": "3103",
+      "subject": [
+        {
+          "code": "RC254-282",
+          "scheme": "LCC",
+          "term": "Neoplasms. Tumors. Oncology. Including cancer and carcinogens"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Institute for Theoretical Biology (ITB), Charit\u00e9\u2014Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin, Humboldt\u2014Universit\u00e4t zu Berlin and Berlin Institute of Health, 10117 Berlin, Germany",
+          "name": "Janina Hesse"
+        },
+        {
+          "affiliation": "Institute for Theoretical Biology (ITB), Charit\u00e9\u2014Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin, Humboldt\u2014Universit\u00e4t zu Berlin and Berlin Institute of Health, 10117 Berlin, Germany",
+          "name": "Deeksha Malhan"
+        },
+        {
+          "affiliation": "Institute for Theoretical Biology (ITB), Charit\u00e9\u2014Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin, Humboldt\u2014Universit\u00e4t zu Berlin and Berlin Institute of Health, 10117 Berlin, Germany",
+          "name": "M\u00fcge Yal\u04abin"
+        },
+        {
+          "affiliation": "Institute for Theoretical Biology (ITB), Charit\u00e9\u2014Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin, Humboldt\u2014Universit\u00e4t zu Berlin and Berlin Institute of Health, 10117 Berlin, Germany",
+          "name": "Ouda Aboumanify"
+        },
+        {
+          "affiliation": "Institute for Theoretical Biology (ITB), Charit\u00e9\u2014Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin, Humboldt\u2014Universit\u00e4t zu Berlin and Berlin Institute of Health, 10117 Berlin, Germany",
+          "name": "Alireza Basti"
+        },
+        {
+          "affiliation": "Institute for Theoretical Biology (ITB), Charit\u00e9\u2014Universit\u00e4tsmedizin Berlin, Corporate Member of Freie Universit\u00e4t Berlin, Humboldt\u2014Universit\u00e4t zu Berlin and Berlin Institute of Health, 10117 Berlin, Germany",
+          "name": "Angela Rel\u00f3gio"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2072-6694/12/11/3103"
+        }
+      ],
+      "abstract": "Tailoring medical interventions to a particular patient and pathology has been termed personalized medicine. The outcome of cancer treatments is improved when the intervention is timed in accordance with the patient\u2019s internal time. Yet, one challenge of personalized medicine is how to consider the biological time of the patient. Prerequisite for this so-called chronotherapy is an accurate characterization of the internal circadian time of the patient. As an alternative to time-consuming measurements in a sleep-laboratory, recent studies in chronobiology predict circadian time by applying machine learning approaches and mathematical modelling to easier accessible observables such as gene expression. Embedding these results into the mathematical dynamics between clock and cancer in mammals, we review the precision of predictions and the potential usage with respect to cancer treatment and discuss whether the patient\u2019s internal time and circadian observables, may provide an additional indication for individualized treatment timing. Besides the health improvement, timing treatment may imply financial advantages, by ameliorating side effects of treatments, thus reducing costs. Summarizing the advances of recent years, this review brings together the current clinical standard for measuring biological time, the general assessment of circadian rhythmicity, the usage of rhythmic variables to predict biological time and models of circadian rhythmicity.",
+      "title": "An Optimal Time for Treatment\u2014Predicting Circadian Time by Machine Learning and Mathematical Modelling"
+    },
+    "admin": {
+      "seal": false
+    },
+    "id": "bf05479e62994184a0cabf7d31c438fa",
+    "created_date": "2020-10-24T00:03:19Z"
+  },
+  {
+    "last_updated": "2023-11-21T02:35:03Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/computers10010004",
+          "type": "doi"
+        },
+        {
+          "id": "2073-431X",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "10",
+        "number": "1",
+        "country": "CH",
+        "issns": [
+          "2073-431X"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Computers"
+      },
+      "month": "12",
+      "keywords": [
+        "decision support system",
+        "population health management",
+        "explainable artificial intelligence",
+        "machine learning",
+        "big data"
+      ],
+      "year": "2020",
+      "start_page": "4",
+      "subject": [
+        {
+          "code": "QA75.5-76.95",
+          "scheme": "LCC",
+          "term": "Electronic computers. Computer science"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Information Engineering, University of Pisa, Via G. Caruso 16, 56122 Pisa, Italy",
+          "name": "Silvia Panicacci"
+        },
+        {
+          "affiliation": "Department of Information Engineering, University of Pisa, Via G. Caruso 16, 56122 Pisa, Italy",
+          "name": "Massimiliano Donati"
+        },
+        {
+          "affiliation": "Tuscan Agenzia Regionale Sanit\u00e0, 50141 Florence, Italy",
+          "name": "Francesco Profili"
+        },
+        {
+          "affiliation": "Tuscan Agenzia Regionale Sanit\u00e0, 50141 Florence, Italy",
+          "name": "Paolo Francesconi"
+        },
+        {
+          "affiliation": "Department of Information Engineering, University of Pisa, Via G. Caruso 16, 56122 Pisa, Italy",
+          "name": "Luca Fanucci"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2073-431X/10/1/4"
+        }
+      ],
+      "abstract": "Together with population ageing, the number of people suffering from multimorbidity is increasing, up to more than half of the population by 2035. This part of the population is composed by the highest-risk patients, who are, at the same time, the major users of the healthcare systems. The early identification of this sub-population can really help to improve people\u2019s quality of life and reduce healthcare costs. In this paper, we describe a population health management tool based on state-of-the-art intelligent algorithms, starting from administrative and socio-economic data, for the early identification of high-risk patients. The study refers to the population of the Local Health Unit of Central Tuscany in 2015, which amounts to 1,670,129 residents. After a trade-off on machine learning models and on input data, Random Forest applied to 1-year of historical data achieves the best results, outperforming state-of-the-art models. The most important variables for this model, in terms of mean minimal depth, accuracy decrease and Gini decrease, result to be age and some group of drugs, such as high-ceiling diuretics. Thanks to the low inference time and reduced memory usage, the resulting model allows for real-time risk prediction updates whenever new data become available, giving General Practitioners the possibility to early adopt personalised medicine.",
+      "title": "Trading-Off Machine Learning Algorithms towards Data-Driven Administrative-Socio-Economic Population Health Management"
+    },
+    "admin": {
+      "seal": false
+    },
+    "id": "c1f50d0cef7a491b8a9d897cfe8d63a3",
+    "created_date": "2020-12-26T00:02:33Z"
+  },
+  {
+    "last_updated": "2022-12-21T18:59:54Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1186/s12859-018-2338-4",
+          "type": "doi"
+        },
+        {
+          "id": "1471-2105",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "19",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "1471-2105"
+        ],
+        "publisher": "BMC",
+        "language": [
+          "EN"
+        ],
+        "title": "BMC Bioinformatics"
+      },
+      "month": "9",
+      "end_page": "25",
+      "keywords": [
+        "Independent component analysis",
+        "Gene expression",
+        "Functional modules",
+        "Transcriptome"
+      ],
+      "year": "2018",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "R858-859.7",
+          "scheme": "LCC",
+          "term": "Computer applications to medicine. Medical informatics"
+        },
+        {
+          "code": "QH301-705.5",
+          "scheme": "LCC",
+          "term": "Biology (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Bioengineering, Stanford University",
+          "name": "Weizhuang Zhou"
+        },
+        {
+          "affiliation": "Department of Bioengineering, Stanford University",
+          "name": "Russ B. Altman"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "http://link.springer.com/article/10.1186/s12859-018-2338-4"
+        }
+      ],
+      "abstract": "Abstract Background Analyzing the human transcriptome is crucial in advancing precision medicine, and the plethora of over half a million human microarray samples in the Gene Expression Omnibus (GEO) has enabled us to better characterize biological processes at the molecular level. However, transcriptomic analysis is challenging because the data is inherently noisy and high-dimensional. Gene set analysis is currently widely used to alleviate the issue of high dimensionality, but the user-defined choice of gene sets can introduce biasness in results. In this paper, we advocate the use of a fixed set of transcriptomic modules for such analysis. We apply independent component analysis to the large collection of microarray data in GEO in order to discover reproducible transcriptomic modules that can be used as features for machine learning. We evaluate the usability of these modules across six studies, and demonstrate (1) their usage as features for sample classification, and also their robustness in dealing with small training sets, (2) their regularization of data when clustering samples and (3) the biological relevancy of differentially expressed features. Results We identified 139 reproducible transcriptomic modules, which we term fundamental components (FCs). In studies with less than 50 samples, FC-space classification model outperformed their gene-space counterparts, with higher sensitivity (p\u00a0<\u20090.01). The models also had higher accuracy and negative predictive value (p\u00a0<\u20090.01) for small data sets (less than 30 samples). Additionally, we observed a reduction in batch effects when data is clustered in the FC-space. Finally, we found that differentially expressed FCs mapped to GO terms that were also identified via traditional gene-based approaches. Conclusions The 139 FCs provide biologically-relevant summarization of transcriptomic data, and their performance in low sample settings suggest that they should be employed in such studies in order to harness the data efficiently.",
+      "title": "Data-driven human transcriptomic modules determined by independent component analysis"
+    },
+    "admin": {
+      "seal": true
+    },
+    "created_date": "2018-09-23T13:10:27Z",
+    "id": "d88b1f334e2a455b80ee30689775e6e5"
+  },
+  {
+    "last_updated": "2023-11-30T23:02:37Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/diagnostics12071543",
+          "type": "doi"
+        },
+        {
+          "id": "2075-4418",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "12",
+        "number": "7",
+        "country": "CH",
+        "issns": [
+          "2075-4418"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Diagnostics"
+      },
+      "month": "06",
+      "keywords": [
+        "Parkinson\u2019s disease",
+        "COVID-19",
+        "cardiovascular/stroke risk stratification",
+        "deep learning",
+        "bias"
+      ],
+      "year": "2022",
+      "start_page": "1543",
+      "subject": [
+        {
+          "code": "R5-920",
+          "scheme": "LCC",
+          "term": "Medicine (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Stroke Monitoring and Diagnostic Division, AtheroPoint\u2122, Roseville, CA 95661, USA",
+          "name": "Jasjit S. Suri"
+        },
+        {
+          "affiliation": "Stroke Monitoring and Diagnostic Division, AtheroPoint\u2122, Roseville, CA 95661, USA",
+          "name": "Mahesh A. Maindarkar"
+        },
+        {
+          "affiliation": "Department of Biomedical Engineering, North Eastern Hill University, Shillong 793022, India",
+          "name": "Sudip Paul"
+        },
+        {
+          "affiliation": "Max Institute of Cancer Care, Max Super Specialty Hospital, New Delhi 110017, India",
+          "name": "Puneet Ahluwalia"
+        },
+        {
+          "affiliation": "Department of Biomedical Engineering, North Eastern Hill University, Shillong 793022, India",
+          "name": "Mrinalini Bhagawati"
+        },
+        {
+          "affiliation": "Department of Radiology, and Pathology, Azienda Ospedaliero Universitaria, 09123 Cagliari, Italy",
+          "name": "Luca Saba"
+        },
+        {
+          "affiliation": "Department of Radiology, and Pathology, Azienda Ospedaliero Universitaria, 09123 Cagliari, Italy",
+          "name": "Gavino Faa"
+        },
+        {
+          "affiliation": "Department of CSE, International Institute of Information Technology, Bhuneshwar 751029, India",
+          "name": "Sanjay Saxena"
+        },
+        {
+          "affiliation": "Stroke Monitoring and Diagnostic Division, AtheroPoint\u2122, Roseville, CA 95661, USA",
+          "name": "Inder M. Singh"
+        },
+        {
+          "affiliation": "Stroke Monitoring and Diagnostic Division, AtheroPoint\u2122, Roseville, CA 95661, USA",
+          "name": "Paramjit S. Chadha"
+        },
+        {
+          "affiliation": "Department of Neurology, University Medical Centre Maribor, 2000 Maribor, Slovenia",
+          "name": "Monika Turk"
+        },
+        {
+          "affiliation": "Department of Medicine, Division of Cardiology, Queen\u2019s University, Kingston, ON K7L 3N6, Canada",
+          "name": "Amer Johri"
+        },
+        {
+          "affiliation": "Department of Cardiology, Indraprastha APOLLO Hospitals, New Delhi 110076, India",
+          "name": "Narendra N. Khanna"
+        },
+        {
+          "affiliation": "Department of Radiology and Ultrasound, University Hospital for Infectious Diseases, 10000 Zagreb, Croatia",
+          "name": "Klaudija Viskovic"
+        },
+        {
+          "affiliation": "Cardiology Clinic, Onassis Cardiac Surgery Centre, 176 74 Athens, Greece",
+          "name": "Sofia Mavrogeni"
+        },
+        {
+          "affiliation": "Heart and Vascular Institute, Adventist Health St. Helena, St. Helena, CA 94574, USA",
+          "name": "John R. Laird"
+        },
+        {
+          "affiliation": "Men\u2019s Health Centre, Miriam Hospital, Providence, RI 02906, USA",
+          "name": "Martin Miner"
+        },
+        {
+          "affiliation": "Rheumatology Unit, National Kapodistrian University of Athens, 157 72 Athens, Greece",
+          "name": "David W. Sobel"
+        },
+        {
+          "affiliation": "Docs Eye Care Research Lab, Dunedin 9013, New Zealand",
+          "name": "Antonella Balestrieri"
+        },
+        {
+          "affiliation": "Rheumatology Unit, National Kapodistrian University of Athens, 157 72 Athens, Greece",
+          "name": "Petros P. Sfikakis"
+        },
+        {
+          "affiliation": "Department of Surgery, Aristoteleion University of Thessaloniki, 541 24 Thessaloniki, Greece",
+          "name": "George Tsoulfas"
+        },
+        {
+          "affiliation": "Cardiovascular Prevention and Research Unit, Department of Pathophysiology, National & Kapodistrian University of Athens, 157 72 Athens, Greece",
+          "name": "Athanase D. Protogerou"
+        },
+        {
+          "affiliation": "Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow 226014, India",
+          "name": "Durga Prasanna Misra"
+        },
+        {
+          "affiliation": "Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow 226014, India",
+          "name": "Vikas Agarwal"
+        },
+        {
+          "affiliation": "Academic Affairs, Dudley Group NHS Foundation Trust, Dudley DY1 2HQ, UK",
+          "name": "George D. Kitas"
+        },
+        {
+          "affiliation": "OhioHealth Heart and Vascular, Mansfield, OH 44905, USA",
+          "name": "Raghu Kolluri"
+        },
+        {
+          "affiliation": "Ann and Robert H. Lurie Children\u2019s Hospital of Chicago, Chicago, IL 60611, USA",
+          "name": "Jagjit S. Teji"
+        },
+        {
+          "affiliation": "Allergy, Clinical Immunology, and Rheumatology Institute, Toronto, ON M5G 1N8, Canada",
+          "name": "Mustafa Al-Maini"
+        },
+        {
+          "affiliation": "Stroke Monitoring and Diagnostic Division, AtheroPoint\u2122, Roseville, CA 95661, USA",
+          "name": "Surinder K. Dhanjil"
+        },
+        {
+          "affiliation": "MV Centre of Diabetes, Chennai 600013, India",
+          "name": "Meyypan Sockalingam"
+        },
+        {
+          "affiliation": "Department of Cardiology, Indraprastha APOLLO Hospitals, New Delhi 110076, India",
+          "name": "Ajit Saxena"
+        },
+        {
+          "affiliation": "Division of Cardiovascular Medicine, University of Virginia, Charlottesville, VA 22908, USA",
+          "name": "Aditya Sharma"
+        },
+        {
+          "affiliation": "Nephrology Department, Kaiser Permanente, Sacramento, CA 95823, USA",
+          "name": "Vijay Rathore"
+        },
+        {
+          "affiliation": "Department of Physiology & Biomedical Engineering, Mayo Clinic College of Medicine and Science, Rochester, MN 55905, USA",
+          "name": "Mostafa Fatemi"
+        },
+        {
+          "affiliation": "Department of Radiology, Mayo Clinic College of Medicine and Science, Rochester, MN 55905, USA",
+          "name": "Azra Alizad"
+        },
+        {
+          "affiliation": "Neurology Department, Fortis Hospital, Bangalore 560076, India",
+          "name": "Padukode R. Krishnan"
+        },
+        {
+          "affiliation": "Department of Neurology, University Medical Centre Maribor, 2000 Maribor, Slovenia",
+          "name": "Tomaz Omerzu"
+        },
+        {
+          "affiliation": "Electrical Engineering Department, University of Minnesota, Duluth, MN 55812, USA",
+          "name": "Subbaram Naidu"
+        },
+        {
+          "affiliation": "Vascular Screening and Diagnostic Centre, University of Nicosia Medical School, Engomi 2408, Cyprus",
+          "name": "Andrew Nicolaides"
+        },
+        {
+          "affiliation": "Department of Vascular Surgery, Central Clinic of Athens, 106 80 Athens, Greece",
+          "name": "Kosmas I. Paraskevas"
+        },
+        {
+          "affiliation": "Department of Radiology, Harvard Medical School, Boston, MA 02115, USA",
+          "name": "Mannudeep Kalra"
+        },
+        {
+          "affiliation": "Invasive Cardiology Division, Faculty of Medicine, University of Szeged, 6720 Szeged, Hungary",
+          "name": "Zolt\u00e1n Ruzsa"
+        },
+        {
+          "affiliation": "Department of Electrical and Computer Engineering, Idaho State University, Pocatello, ID 83209, USA",
+          "name": "Mostafa M. Fouda"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2075-4418/12/7/1543"
+        }
+      ],
+      "abstract": "<b><i>Background and Motivation</i></b>: Parkinson\u2019s disease (PD) is one of the most serious, non-curable, and expensive to treat. Recently, machine learning (ML) has shown to be able to predict cardiovascular/stroke risk in PD patients. The presence of COVID-19 causes the ML systems to become severely non-linear and poses challenges in cardiovascular/stroke risk stratification. Further, due to comorbidity, sample size constraints, and poor scientific and clinical validation techniques, there have been no well-explained ML paradigms. Deep neural networks are powerful learning machines that generalize non-linear conditions. This study presents a novel investigation of deep learning (DL) solutions for CVD/stroke risk prediction in PD patients affected by the COVID-19 framework. <b><i>Method</i></b>: The PRISMA search strategy was used for the selection of 292 studies closely associated with the effect of PD on CVD risk in the COVID-19 framework. We study the hypothesis that PD in the presence of COVID-19 can cause more harm to the heart and brain than in non-COVID-19 conditions. COVID-19 lung damage severity can be used as a covariate during DL training model designs. We, therefore, propose a DL model for the estimation of, (i) COVID-19 lesions in computed tomography (CT) scans and (ii) combining the covariates of PD, COVID-19 lesions, office and laboratory arterial atherosclerotic image-based biomarkers, and medicine usage for the PD patients for the design of DL point-based models for CVD/stroke risk stratification. <b><i>Results</i></b>: We validated the feasibility of CVD/stroke risk stratification in PD patients in the presence of a COVID-19 environment and this was also verified. DL architectures like long short-term memory (LSTM), and recurrent neural network (RNN) were studied for CVD/stroke risk stratification showing powerful designs. Lastly, we examined the artificial intelligence bias and provided recommendations for early detection of CVD/stroke in PD patients in the presence of COVID-19. <b><i>Conclusion</i></b>: The DL is a very powerful tool for predicting CVD/stroke risk in PD patients affected by COVID-19.",
+      "title": "Deep Learning Paradigm for Cardiovascular Disease/Stroke Risk Stratification in Parkinson\u2019s Disease Affected by COVID-19: A Narrative Review"
+    },
+    "admin": {
+      "seal": false
+    },
+    "id": "ddae48530030446d9a0d6bb48f5f9200",
+    "created_date": "2022-07-25T16:46:47Z"
+  },
+  {
+    "last_updated": "2022-12-21T18:29:52Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1932-6203",
+          "type": "eissn"
+        },
+        {
+          "id": "10.1371/journal.pone.0055082",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "8",
+        "number": "2",
+        "country": "US",
+        "issns": [
+          "1932-6203"
+        ],
+        "publisher": "Public Library of Science (PLoS)",
+        "language": [
+          "EN"
+        ],
+        "title": "PLoS ONE"
+      },
+      "month": "0",
+      "year": "2013",
+      "start_page": "e55082",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        },
+        {
+          "code": "Q",
+          "scheme": "LCC",
+          "term": "Science"
+        }
+      ],
+      "author": [
+        {
+          "name": "Fumiko Matsuoka"
+        },
+        {
+          "name": "Ichiro Takeuchi"
+        },
+        {
+          "name": "Hideki Agata"
+        },
+        {
+          "name": "Hideaki Kagami"
+        },
+        {
+          "name": "Hirofumi Shiono"
+        },
+        {
+          "name": "Yasujiro Kiyota"
+        },
+        {
+          "name": "Hiroyuki Honda"
+        },
+        {
+          "name": "Ryuji Kato"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "http://europepmc.org/articles/PMC3578868?pdf=render"
+        }
+      ],
+      "abstract": "Human bone marrow mesenchymal stem cells (hBMSCs) are widely used cell source for clinical bone regeneration. Achieving the greatest therapeutic effect is dependent on the osteogenic differentiation potential of the stem cells to be implanted. However, there are still no practical methods to characterize such potential non-invasively or previously. Monitoring cellular morphology is a practical and non-invasive approach for evaluating osteogenic potential. Unfortunately, such image-based approaches had been historically qualitative and requiring experienced interpretation. By combining the non-invasive attributes of microscopy with the latest technology allowing higher throughput and quantitative imaging metrics, we studied the applicability of morphometric features to quantitatively predict cellular osteogenic potential. We applied computational machine learning, combining cell morphology features with their corresponding biochemical osteogenic assay results, to develop prediction model of osteogenic differentiation. Using a dataset of 9,990 images automatically acquired by BioStation CT during osteogenic differentiation culture of hBMSCs, 666 morphometric features were extracted as parameters. Two commonly used osteogenic markers, alkaline phosphatase (ALP) activity and calcium deposition were measured experimentally, and used as the true biological differentiation status to validate the prediction accuracy. Using time-course morphological features throughout differentiation culture, the prediction results highly correlated with the experimentally defined differentiation marker values (R>0.89 for both marker predictions). The clinical applicability of our morphology-based prediction was further examined with two scenarios: one using only historical cell images and the other using both historical images together with the patient's own cell images to predict a new patient's cellular potential. The prediction accuracy was found to be greatly enhanced by incorporation of patients' own cell features in the modeling, indicating the practical strategy for clinical usage. Consequently, our results provide strong evidence for the feasibility of using a quantitative time series of phase-contrast cellular morphology for non-invasive cell quality prediction in regenerative medicine.",
+      "title": "Morphology-based prediction of osteogenic differentiation potential of human mesenchymal stem cells."
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "debde22a24c44fd5894fe617b9c9cb5d",
+    "created_date": "2016-06-14T22:19:49Z"
+  },
+  {
+    "last_updated": "2022-12-21T19:05:11Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1186/s12874-020-00977-1",
+          "type": "doi"
+        },
+        {
+          "id": "1471-2288",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "20",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "1471-2288"
+        ],
+        "publisher": "BMC",
+        "language": [
+          "EN"
+        ],
+        "title": "BMC Medical Research Methodology"
+      },
+      "month": "5",
+      "end_page": "40",
+      "keywords": [
+        "Synthetic data generation",
+        "Cancer patient data",
+        "Information disclosure",
+        "Generative models"
+      ],
+      "year": "2020",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "R5-920",
+          "scheme": "LCC",
+          "term": "Medicine (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Lawrence Livermore National Laboratory",
+          "name": "Andre Goncalves"
+        },
+        {
+          "affiliation": "Lawrence Livermore National Laboratory",
+          "name": "Priyadip Ray"
+        },
+        {
+          "affiliation": "Lawrence Livermore National Laboratory",
+          "name": "Braden Soper"
+        },
+        {
+          "affiliation": "Information Management Systems",
+          "name": "Jennifer Stevens"
+        },
+        {
+          "affiliation": "Information Management Systems",
+          "name": "Linda Coyle"
+        },
+        {
+          "affiliation": "Lawrence Livermore National Laboratory",
+          "name": "Ana Paula Sales"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "http://link.springer.com/article/10.1186/s12874-020-00977-1"
+        }
+      ],
+      "abstract": "Abstract Background Machine learning (ML) has made a significant impact in medicine and cancer research; however, its impact in these areas has been undeniably slower and more limited than in other application domains. A major reason for this has been the lack of availability of patient data to the broader ML research community, in large part due to patient privacy protection concerns. High-quality, realistic, synthetic datasets can be leveraged to accelerate methodological developments in medicine. By and large, medical data is high dimensional and often categorical. These characteristics pose multiple modeling challenges. Methods In this paper, we evaluate three classes of synthetic data generation approaches; probabilistic models, classification-based imputation models, and generative adversarial neural networks. Metrics for evaluating the quality of the generated synthetic datasets are presented and discussed. Results While the results and discussions are broadly applicable to medical data, for demonstration purposes we generate synthetic datasets for cancer based on the publicly available cancer registry data from the Surveillance Epidemiology and End Results (SEER) program. Specifically, our cohort consists of breast, respiratory, and non-solid cancer cases diagnosed between 2010 and 2015, which includes over 360,000 individual cases. Conclusions We discuss the trade-offs of the different methods and metrics, providing guidance on considerations for the generation and usage of medical synthetic data.",
+      "title": "Generation and evaluation of synthetic patient data"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "e11559c49d904c0ebc01f5521fc62546",
+    "created_date": "2020-05-10T12:02:17Z"
+  },
+  {
+    "last_updated": "2022-12-21T18:52:54Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "2352-9148",
+          "type": "pissn"
+        },
+        {
+          "id": "10.1016/j.imu.2022.100913",
+          "type": "DOI"
+        }
+      ],
+      "journal": {
+        "volume": "29",
+        "number": "",
+        "country": "GB",
+        "issns": [
+          "2352-9148"
+        ],
+        "publisher": "Elsevier",
+        "language": [
+          "EN"
+        ],
+        "title": "Informatics in Medicine Unlocked"
+      },
+      "end_page": "",
+      "keywords": [
+        "Content richness",
+        "Effectiveness",
+        "Personal innovativeness",
+        "Smart watches",
+        "Structural equation modeling"
+      ],
+      "year": "2022",
+      "start_page": "100913",
+      "subject": [
+        {
+          "code": "R858-859.7",
+          "scheme": "LCC",
+          "term": "Computer applications to medicine. Medical informatics"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Computer Science Department, University of Sharjah, Sharjah, United Arab Emirates",
+          "name": "Ashraf Elnagar"
+        },
+        {
+          "affiliation": "Computer Science and Engineering Department, Yanbu University College, Royal Commission for Jubail and Yanbu, Yanbu Industrial City, Saudi Arabia",
+          "name": "Noha Alnazzawi"
+        },
+        {
+          "affiliation": "Computer Science Department, University of Sharjah, Sharjah, United Arab Emirates",
+          "name": "Imad Afyouni"
+        },
+        {
+          "affiliation": "Electrical Engineering Department, University of Sharjah, Sharjah, United Arab Emirates",
+          "name": "Ismail Shahin"
+        },
+        {
+          "affiliation": "Computer Engineering Department, University of Sharjah, Sharjah, United Arab Emirates",
+          "name": "Ali Bou Nassif"
+        },
+        {
+          "affiliation": "School of Computing &amp; Science &amp; Engineering, University of Salford, UK; Corresponding author.",
+          "name": "Said A. Salloum"
+        }
+      ],
+      "link": [
+        {
+          "type": "fulltext",
+          "url": "http://www.sciencedirect.com/science/article/pii/S2352914822000636"
+        }
+      ],
+      "abstract": "This study makes use of a cohesive yet innovative research model to identify the determinants of the adoption of smart watches using constructs from the Technology Acceptance Model (TAM) and constructs of smartwatches, including effectiveness, content richness, and personal innovativeness. The chief objective of the study was to encourage the use of smartwatches for medical purposes so that the role of doctors can be made more effective and to facilitate access to patient records. Our conceptual framework highlights the association of TAM constructs (i.e., perceived usefulness and perceived ease of use) with the content richness, the construct of user satisfaction, and innovativeness. To measure the effectiveness of the smartwatch, an external factor based on the flow theory was added, which emphasizes the control over the smartwatch and the degree of involvement. The study employs data from 385 respondents involved in the field of medicine, such as doctors, patients, and nurses. The data were gathered through a survey and used for evaluation of the research model using partial least squares structural equation modeling (PLS-SEM) and machine learning (ML) models. The significance and performance of factors impacting THE adoption of smartwatches were also identified using Importance-Performance Map Analysis (IPMA). User satisfaction is the most important predictor of intention to adopt a medical smartwatch according to the ML and IPMA analyses. The fitting of the structural equation model to the sample showed a high dependence of user satisfaction on perceived usefulness and perceived ease of use. Furthermore, two critical factors, innovativeness and content richness, are demonstrated to enhance perceived usefulness. However, one should consider that perceived usefulness or behavioral intention could not be determined based on perceived ease of use. In general, the findings suggest that smartwatch usage could become critically important in the medical field as a mediator that allows doctors, patients, and other users to access essential information.",
+      "title": "Prediction of the intention to use a smartwatch: A comparative approach using machine learning and partial least squares structural equation modeling"
+    },
+    "id": "e181801d0e75470bb518193a9851169c",
+    "created_date": "2022-03-14T04:20:48Z"
+  },
+  {
+    "last_updated": "2023-12-10T12:07:36Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1186/s42836-023-00219-x",
+          "type": "doi"
+        },
+        {
+          "id": "2524-7948",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "5",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "2524-7948"
+        ],
+        "publisher": "BMC",
+        "language": [
+          "EN"
+        ],
+        "title": "Arthroplasty"
+      },
+      "month": "12",
+      "end_page": "4",
+      "keywords": [
+        "Arthroplasty",
+        "Factors",
+        "Knee",
+        "Hip",
+        "Outcome"
+      ],
+      "year": "2023",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "RD701-811",
+          "scheme": "LCC",
+          "term": "Orthopedic surgery"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Edinburgh Orthopaedics, Royal Infirmary of Edinburgh",
+          "name": "Nicholas D. Clement"
+        },
+        {
+          "affiliation": "Edinburgh Orthopaedics, Royal Infirmary of Edinburgh",
+          "name": "Chloe E. H. Scott"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://doi.org/10.1186/s42836-023-00219-x"
+        }
+      ],
+      "abstract": "Abstract Background Total hip and knee arthroplasty for end stage arthritis are among the most cost-effective interventions available in all of medicine. Success of hip and knee arthroplasties is not universal and approximately one in ten patients are not satisfied with their arthroplasty and 10 to 34% of patients have an unfavourable long term pain outcome. The aim of this edition of Arthroplasty was to identify factors associated with: (1) poor joint specific outcome, (2) poor health related quality of life outcome and (3) dissatisfaction following total hip and knee arthroplasty. Methods The scope was deliberately broad to identify factors (known and unknown) that influence outcome of total hip and knee arthroplasty, and of 40 submissions, eight were selected for this special edition after peer review. Results Many of the included studies reported subjective\u00a0patient reported outcome measures as their key outcomes but other objective measures such as muscle mass, timed Up-and-Go test, kneeling ability and postoperative pain are also featured. Some studies involved a focus on early rehabilitation after surgery (ERAS) principles and how to optimise pre-rehabilitation and reduce length of hospital stay readmission and reoperation. The effect of metal allergy and drain usage on outcomes is also explored. A variety of methodologies have been used including one randomised control trial, some machine learning and three systematic reviews investigating the effect of metal allergy on outcomes, associations with postoperative pain and the effect of patella resurfacing. Conclusion This special edition has advanced our knowledge of factors influencing to the outcome of hip and knee arthroplasty but has also identified several areas of research that need to be addressed to improve the outcomes of our patients.",
+      "title": "Editorial: factors influencing the outcome of total hip and knee arthroplasty"
+    },
+    "id": "ed3542f51be24eee9cfb138fdc4eff65",
+    "created_date": "2023-12-10T12:07:36Z"
+  },
+  {
+    "last_updated": "2022-12-21T17:59:31Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "1548-7660",
+          "type": "eissn"
+        },
+        {
+          "id": "10.18637/jss.v085.i13",
+          "type": "doi"
+        }
+      ],
+      "journal": {
+        "volume": "85",
+        "number": "1",
+        "country": "US",
+        "issns": [
+          "1548-7660"
+        ],
+        "publisher": "Foundation for Open Access Statistics",
+        "language": [
+          "EN"
+        ],
+        "title": "Journal of Statistical Software"
+      },
+      "month": "7",
+      "end_page": "30",
+      "keywords": [
+        "predictive modeling",
+        "machine learning",
+        "performance evaluation",
+        "resampling",
+        "high performance computing"
+      ],
+      "year": "2018",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "HA1-4737",
+          "scheme": "LCC",
+          "term": "Statistics"
+        }
+      ],
+      "author": [
+        {
+          "name": "Christofer L. B\u00e4cklin"
+        },
+        {
+          "name": "Mats G. Gustafsson"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "html",
+          "type": "fulltext",
+          "url": "https://www.jstatsoft.org/index.php/jss/article/view/3520"
+        }
+      ],
+      "abstract": "Data driven machine learning for predictive modeling problems (classification, regression, or survival analysis) typically involves a number of steps beginning with data preprocessing and ending with performance evaluation. A large number of packages providing tools for the individual steps are available for R, but there is a lack of tools for facilitating rigorous performance evaluation of the complete procedures assembled from them by means of cross-validation, bootstrap, or similar methods. Such a tool should strictly prevent test set observations from influencing model training and meta-parameter tuning, so-called information leakage, in order to not produce overly optimistic performance estimates. Here we present a new package for R denoted emil (evaluation of modeling without information leakage) that offers this form of performance evaluation. It provides a transparent and highly customizable framework for facilitating the assembly, execution, performance evaluation, and interpretation of complete procedures for classification, regression, and survival analysis. The components of package emil have been designed to be as modular and general as possible to allow users to combine, replace, and extend them if needed. Package emil was also developed with scalability in mind and has a small computational overhead, which is a key requirement for analyzing the very big data sets now available in fields like medicine, physics, and finance. First package emil's functionality and usage is explained. Then three specific application examples are presented to show its potential in terms of parallelization, customization for survival analysis, and development of ensemble models. Finally a brief comparison to similar software is provided.",
+      "title": "Developer-Friendly and Computationally Efficient Predictive Modeling without Information Leakage: The emil Package for R"
+    },
+    "created_date": "2018-10-22T19:34:52Z",
+    "id": "f4dc4078271c4156ae101c279d0e28cb"
+  },
+  {
+    "last_updated": "2024-03-27T13:22:49Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.3390/biomedicines12030568",
+          "type": "doi"
+        },
+        {
+          "id": "2227-9059",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "12",
+        "number": "3",
+        "country": "CH",
+        "issns": [
+          "2227-9059"
+        ],
+        "publisher": "MDPI AG",
+        "language": [
+          "EN"
+        ],
+        "title": "Biomedicines"
+      },
+      "month": "03",
+      "keywords": [
+        "machine learning",
+        "chronic kidney disease",
+        "diabetic nephropathy",
+        "IgA nephropathy",
+        "hemodialysis"
+      ],
+      "year": "2024",
+      "start_page": "568",
+      "subject": [
+        {
+          "code": "QH301-705.5",
+          "scheme": "LCC",
+          "term": "Biology (General)"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Department of Nephrology, Ghent University Hospital, 9000 Ghent, Belgium",
+          "name": "Charlotte Delrue"
+        },
+        {
+          "affiliation": "Department of Laboratory Medicine, Ghent University Hospital, 9000 Ghent, Belgium",
+          "name": "Sander De Bruyne"
+        },
+        {
+          "affiliation": "Department of Nephrology, Ghent University Hospital, 9000 Ghent, Belgium",
+          "name": "Marijn M. Speeckaert"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "text/html",
+          "type": "fulltext",
+          "url": "https://www.mdpi.com/2227-9059/12/3/568"
+        }
+      ],
+      "abstract": "The emergence of artificial intelligence and machine learning (ML) has revolutionized the landscape of clinical medicine, offering opportunities to improve medical practice and research. This narrative review explores the current status and prospects of applying ML to chronic kidney disease (CKD). ML, at the intersection of statistics and computer science, enables computers to derive insights from extensive datasets, thereby presenting an interesting landscape for constructing statistical models and improving data interpretation. The integration of ML into clinical algorithms aims to increase efficiency and promote its adoption as a standard approach to data interpretation in nephrology. As the field of ML continues to evolve, collaboration between clinicians and data scientists is essential for defining data-sharing and usage policies, ultimately contributing to the advancement of precision diagnostics and personalized medicine in the context of CKD.",
+      "title": "Application of Machine Learning in Chronic Kidney Disease: Current Status and Future Prospects"
+    },
+    "admin": {
+      "seal": true
+    },
+    "id": "fa68d72879ae4afd9b320dd7d1da0258",
+    "created_date": "2024-03-27T13:22:49Z"
+  },
+  {
+    "last_updated": "2023-02-05T12:09:49Z",
+    "bibjson": {
+      "identifier": [
+        {
+          "id": "10.1038/s41598-023-28481-8",
+          "type": "doi"
+        },
+        {
+          "id": "2045-2322",
+          "type": "eissn"
+        }
+      ],
+      "journal": {
+        "volume": "13",
+        "number": "1",
+        "country": "GB",
+        "issns": [
+          "2045-2322"
+        ],
+        "publisher": "Nature Portfolio",
+        "language": [
+          "EN"
+        ],
+        "title": "Scientific Reports"
+      },
+      "month": "1",
+      "end_page": "13",
+      "year": "2023",
+      "start_page": "1",
+      "subject": [
+        {
+          "code": "R",
+          "scheme": "LCC",
+          "term": "Medicine"
+        },
+        {
+          "code": "Q",
+          "scheme": "LCC",
+          "term": "Science"
+        }
+      ],
+      "author": [
+        {
+          "affiliation": "Tandon School of Engineering, New York University",
+          "name": "Esha Sarkar"
+        },
+        {
+          "affiliation": "Center for Cyber Security, New York University Abu Dhabi",
+          "name": "Eduardo Chielle"
+        },
+        {
+          "affiliation": "Program in Computational Biology and Bioinformatics, Yale University",
+          "name": "Gamze Gursoy"
+        },
+        {
+          "affiliation": "Department of Computer Science, Yale University",
+          "name": "Leo Chen"
+        },
+        {
+          "affiliation": "Program in Computational Biology and Bioinformatics, Yale University",
+          "name": "Mark Gerstein"
+        },
+        {
+          "affiliation": "Center for Cyber Security, New York University Abu Dhabi",
+          "name": "Michail Maniatakos"
+        }
+      ],
+      "link": [
+        {
+          "content_type": "HTML",
+          "type": "fulltext",
+          "url": "https://doi.org/10.1038/s41598-023-28481-8"
+        }
+      ],
+      "abstract": "Abstract Cancer genomics tailors diagnosis and treatment based on an individual\u2019s genetic information and is the crux of precision medicine. However, analysis and maintenance of high volume of genetic mutation data to build a machine learning (ML) model to predict the cancer type is a computationally expensive task and is often outsourced to powerful cloud servers, raising critical privacy concerns for patients\u2019 data. Homomorphic encryption (HE) enables computation on encrypted data, thus, providing cryptographic guarantees to protect privacy. But restrictive overheads of encrypted computation deter its usage. In this work, we explore the challenges of privacy preserving cancer type prediction using a dataset consisting of more than 2 million genetic mutations from 2713 patients for several cancer types by building a highly accurate ML model and then implementing its privacy preserving version in HE. Our solution for cancer type inference encodes somatic mutations based on their impact on the cancer genomes into the feature space and then uses statistical tests for feature selection. We propose a fast matrix multiplication algorithm for HE-based model. Our final model achieves 0.98 micro-average area under curve improving accuracy from 70.08 to 83.61% , being 550 times faster than the standard matrix multiplication-based privacy-preserving models. Our tool can be found at https://github.com/momalab/octal-candet .",
+      "title": "Privacy-preserving cancer type prediction with homomorphic encryption"
+    },
+    "id": "feef21279e8c431287ba803591ee2979",
+    "created_date": "2023-02-05T12:09:49Z"
+  }
+]
