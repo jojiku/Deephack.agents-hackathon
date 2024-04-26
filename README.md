@@ -3,7 +3,8 @@
 git clone https://github.com/jojiku/Deephack.agents-hackathon.git
 ```
 После добавьте файл .env с ключами в формате 
-GIGACHAT_API_TOKEN = OWYzYzU1MzEtNGZhZi00ZDQxLWI2ODMtM2QxY2EyYTY5ZWEzOjhmOGNjMTAwLWUwOGUtNDgzZC1iZWFhLTcyMGE5YjY2YzAwZg==
+
+GIGACHAT_API_TOKEN = ...
 в главную директорию. 
 После 
 ```
