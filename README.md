@@ -10,7 +10,7 @@ GIGACHAT_API_TOKEN = ...
 ```
 pip install -r requirements.txt
 ```
-### Для использования запустите пожалуйста docker desktop, после чего перейдите в клонированную папку:
+### Для запуска через docker перейдите в клонированную папку:
 ```
 cd Deephack.agents-hackathon
 ```
