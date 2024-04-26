@@ -1,0 +1,15 @@
+streamlit
+hugchat
+streamlit-chat
+streamlit-extras
+langchain
+openai
+chromadb
+nltk
+sentence_transformers
+streamlit_option_menu
+jq
+python-dotenv
+lark
+pandas
+beautifulsoup4
